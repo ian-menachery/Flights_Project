@@ -171,7 +171,6 @@
 169,DAD,Da Nang,Viet Nam,Da Nang,16.053339,108.202753
 170,DAM,Damascus International,Syrian Arab Republic,Damascus,33.411171,36.512488
 171,DAT,Datong Airport,China,Datong,40.05554,113.481362
-172,DBB,Al Alamain International Airport,Egypt,Dabaa,30.924444,28.461389
 173,DBC,Baicheng Chang'an Airport,China,Baicheng,45.505011,123.018851
 174,DBR,Darbhanga Airport,India,Darbhanga,26.1933,85.9114
 175,DCY,Daocheng Yading Airport,China,Daocheng,29.323056,100.053333
@@ -277,7 +276,6 @@
 275,GOP,Gorakhpur Airport,India,Gorakhpur,26.746862,83.443762
 276,GOQ,Golmud,China,Golmud,36.404633,94.789305
 277,GOX,Mopa Airport,India,Goa,15.73139,73.86778
-278,GOY,Tura Airport,Russia,Tura,64.333333,100.433333
 279,GSM,Dayrestan Airport,Iran,Qeshm Island,26.757778,55.905278
 280,GTO,Jalaluddin,Indonesia,Gorontalo,0.639039,122.850876
 281,GUW,Atyrau,Kazakhstan,Atyrau,47.122815,51.829554
@@ -500,7 +498,6 @@
 498,KTG,Rahadi Usman,Indonesia,Ketapang,-1.833333,109.983333
 499,KTM,Tribhuvan International,Nepal,Kathmandu,27.699906,85.35657
 500,KUA,Kuantan,Malaysia,Kuantan,3.780765,103.215182
-501,KUB,Kunsan Ab,South Korea,Kunsan,,
 502,KUH,Kushiro,Japan,Kushiro,43.045651,144.196819
 503,KUL,Kuala Lumpur International Airport,Malaysia,Kuala Lumpur,2.744344,101.717259
 504,KUM,Yakushima Airport,Japan,Yakushima,30.385556,130.659167
@@ -516,7 +513,6 @@
 514,KYA,Konya,Turkiye,Konya,37.979167,32.562222
 515,KYP,Kyaukpyu,Myanmar,Kyaukpyu,19.429139,93.535166
 516,KZO,Kzyl-Orda Airport,Kazakhstan,Kzyl-Orda,44.70727,65.592248
-517,LAB,Lablab,Papua New Guinea,Lablab,-5.633333,148.066667
 518,LAH,Oesman Sadik Airport,Indonesia,Labuha,-0.636548,127.500265
 519,LAO,Laoag Intl,Philippines,Laoag,18.182408,120.534123
 520,LBD,Khudzhand Airport,Tajikistan,Khujand,40.219887,69.6965
@@ -531,7 +527,6 @@
 529,LGK,Langkawi,Malaysia,Langkawi,6.342174,99.731403
 530,LGL,Long Lellang Airport,Malaysia,Long Lellang,3.42139,115.15361
 531,LHE,Allama Iqbal International,Pakistan,Lahore,31.520833,74.402778
-532,LHN,Linhares Municipal Airport,Brazil,Linhares,-19.3572,-40.0697
 533,LHW,Lanzhou Zhongchuan International Airport,China,Lanzhou,36.509497,103.61756
 534,LJG,Lijiang Sanyi Airport,China,Lijiang,26.679975,100.245768
 535,LKA,Larantuka,Indonesia,Larantuka,-8.274301,123.001315
@@ -541,7 +536,6 @@
 539,LLF,Lingling Airport,China,Yongzhou,26.345556,111.612222
 540,LLJ,Silampari Airport,Indonesia,Lubuk Linggau,-3.284167,102.913333
 541,LLK,Lankaran International Airport,Azerbaijan,Lankaran,38.74203,48.824093
-542,LLM,Lomlom Airport,Solomon Islands,Lomlom,-10.2975,166.33
 543,LLO,Lagaligo Airport,Indonesia,Palopo,-3.084722,120.245278
 544,LLV,Luliang Airport,China,Luliang,37.683333,111.142778
 545,LMN,Limbang,Malaysia,Limbang,4.666667,115.0
@@ -625,7 +619,6 @@
 623,MZH,Merzifon,Turkiye,Merzifon,40.883333,35.533333
 624,MZR,Mazar I Sharif,Afghanistan,Mazar-I-Sharif,36.709192,67.208485
 625,MZV,Mulu,Malaysia,Mulu,4.033333,114.8
-626,MZW,Matsu,Algeria,Mechria,33.5354,-0.242177
 627,NAG,Nagpur,India,Nagpur,21.090037,79.05636
 628,NAJ,Nakhichevan,Azerbaijan,Nakhichevan,39.190278,45.458889
 629,NAM,Namlea Airport,Indonesia,Namlea,-3.237134,127.100235
@@ -788,7 +781,6 @@
 786,SOC,Solo City,Indonesia,Surakarta,-7.514458,110.749956
 787,SOQ,Jefman,Indonesia,Sorong,-0.890214,131.290591
 788,SPD,Saidpur,Bangladesh,Saidpur,25.759272,88.90897
-789,SPX,Sphinx International Airport,Egypt,Giza,30.109722,30.894444
 790,SQD,Sanqingshan Airport,China,Shangrao,28.379722,117.964167
 791,SQG,Sintang,Indonesia,Sintang,0.063215,111.472328
 792,SQJ,Sanming Shaxian Airport,China,Sanming,26.425812,117.838929
@@ -936,7 +928,6 @@
 934,VTE,Wattay International,Lao People's Democratic Republic,Vientiane,17.975432,102.567721
 935,VTZ,Vishakhapatnam,India,Vishakhapatnam,17.723596,83.22768
 936,WAE,Wadi Ad Dawasir,Saudi Arabia,Wadi Ad Dawasir,20.498443,45.204447
-937,WBM,Wapenamanda Airport,Papua New Guinea,Wapenamanda,-5.633084,143.89102
 938,WDS,Shiyan Wudangshan Airport,China,Shiyan,32.589946,110.906355
 939,WEF,Weifang Airport,China,Weifang,36.641074,119.113469
 940,WEH,Weihai Airport,China,Weihai,37.188142,122.236067
@@ -1004,7 +995,6 @@
 1002,ZBR,Chah Bahar,Iran,Chah Bahar,25.4433,60.382099
 1003,ZBY,Sayaboury,Lao People's Democratic Republic,Sayaboury,19.25,101.7
 1004,ZER,Ziro Airport,India,Ziro,27.588301,93.828102
-1005,ZGC,Zhongchuan,China,Lanzhou,45.803101,15.994173
 1006,ZHA,Zhanjiang Airport,China,Zhanjiang,21.214727,110.362715
 1007,ZHY,Zhongwei Xiangshan Airport,China,Zhongwei,37.573125,105.154454
 1008,ZQZ,Zhangjiakou Ningyuan Airport,China,Zhangjiakou,40.739228,114.931455
