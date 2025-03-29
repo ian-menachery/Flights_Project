@@ -1,15 +1,13 @@
-// Set up width, height, and projection
 const width = 800, height = 500;
 const svg = d3.select("#map");
 
-// Define projection (focus on Asia)
 const projection = d3.geoMercator()
     .scale(500)  // Adjust scale to zoom into Asia
     .translate([width * -.2 , height * 1.3])  // Center the projection
 
 const path = d3.geoPath().projection(projection);
 
-// Create a tooltip div (invisible by default)
+
 const tooltip = d3.select("body").append("div")
     .attr("class", "tooltip")
     .style("position", "absolute")
@@ -22,11 +20,11 @@ const tooltip = d3.select("body").append("div")
 
 // Set up zoom behavior
 const zoom = d3.zoom()
-    .scaleExtent([1, 8]) // Set zoom limits (1x to 8x zoom)
-    .translateExtent([[0, 0], [width *1.5, height *1.5]]) // Limit panning within the SVG bounds
+    .scaleExtent([1, 8]) 
+    .translateExtent([[0, 0], [width *1.5, height *1.5]])
     .on("zoom", zoomed);
 
-// Apply zoom behavior to SVG
+
 svg.call(zoom);
 
 // Function to handle zoom and pan
@@ -35,21 +33,19 @@ function zoomed(event) {
 
     // Apply the transformation (zoom and pan) to the map paths and circles
     svg.selectAll("path")
-        .attr("transform", transform); // Zoom/pan map paths
+        .attr("transform", transform);
 
     svg.selectAll("circle")
-        .attr("transform", transform); // Zoom/pan airport circles
+        .attr("transform", transform); 
 
     // Apply the transformation to the route lines
     svg.selectAll(".route-line")
-        .attr("transform", transform); // Zoom/pan the route lines
+        .attr("transform", transform); 
 }
 
-// Load world map (GeoJSON)
 d3.json("https://d3js.org/world-110m.v1.json").then(worldData => {
     const countries = topojson.feature(worldData, worldData.objects.countries);
 
-    // Draw countries
     svg.selectAll("path")
         .data(countries.features)
         .enter().append("path")
@@ -57,7 +53,6 @@ d3.json("https://d3js.org/world-110m.v1.json").then(worldData => {
         .attr("fill", "white")
         .attr("stroke", "black");
 
-    // Load CSV data
     d3.csv("large_airport_coordinates.csv").then(data => {
         svg.selectAll("circle")
             .data(data)
@@ -70,7 +65,6 @@ d3.json("https://d3js.org/world-110m.v1.json").then(worldData => {
             .attr("stroke", "black")
             .attr("opacity", .9)
             .on("mouseover", function(event, d) {
-                // Show tooltip on mouseover
                 tooltip.style("visibility", "visible")
                     .text(d.iata + "\n" + d.city_name);
             })
@@ -80,12 +74,11 @@ d3.json("https://d3js.org/world-110m.v1.json").then(worldData => {
                     .style("left", (event.pageX + 5) + "px");
             })
             .on("mouseout", function() {
-                // Hide tooltip on mouseout
                 tooltip.style("visibility", "hidden");
             })
             .on("click", function(event, d) {
-                const selectedIATA = d.iata; // Get clicked airport's IATA code
-                const originCoords = projection([+d.longitude, +d.latitude]); // Get origin coordinates
+                const selectedIATA = d.iata;
+                const originCoords = projection([+d.longitude, +d.latitude]);
 
                 // Remove previous lines before drawing new ones
                 svg.selectAll(".route-line").remove();
@@ -95,16 +88,13 @@ d3.json("https://d3js.org/world-110m.v1.json").then(worldData => {
 
                 // Load connections data
                 d3.csv("large_connections.csv").then(connections => {
-                    // Filter destinations for the selected airport
+
                     const destinations = connections.filter(conn => conn.Origin === selectedIATA);
 
-                    // Reset all circles to gray
                     svg.selectAll("circle").attr("fill", "gray");
 
-                    // Highlight clicked airport in red
                     d3.select(this).attr("fill", "red");
 
-                    // Highlight destination airports in green
                     svg.selectAll("circle")
                         .filter(d => destinations.some(conn => conn.Destination === d.iata))
                         .attr("fill", "blue");
@@ -123,7 +113,7 @@ d3.json("https://d3js.org/world-110m.v1.json").then(worldData => {
                             .attr("stroke", "black")
                             .attr("stroke-width", 1)
                             .attr("opacity", 0.8)
-                            .attr("transform", transform);  // Apply zoom transformation to lines
+                            .attr("transform", transform); 
                     });
                 });
             });
