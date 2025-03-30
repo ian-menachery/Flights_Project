@@ -2,8 +2,8 @@ const width = 800, height = 500;
 const svg = d3.select("#map");
 
 const projection = d3.geoMercator()
-    .scale(500)  // Adjust scale to zoom into Asia
-    .translate([width * -.2 , height * 1.3])  // Center the projection
+    .scale(500) 
+    .translate([width * -.2 , height * 1.3])
 
 const path = d3.geoPath().projection(projection);
 
@@ -21,9 +21,8 @@ const tooltip = d3.select("body").append("div")
 // Set up zoom behavior
 const zoom = d3.zoom()
     .scaleExtent([1, 8]) 
-    .translateExtent([[0, 0], [width *1.5, height *1.5]])
+    .translateExtent([[0, 0], [width * 1.5, height * 1.5]])
     .on("zoom", zoomed);
-
 
 svg.call(zoom);
 
@@ -80,11 +79,18 @@ d3.json("https://d3js.org/world-110m.v1.json").then(worldData => {
                 const selectedIATA = d.iata;
                 const originCoords = projection([+d.longitude, +d.latitude]);
 
-                // Remove previous lines before drawing new ones
-                svg.selectAll(".route-line").remove();
+                // Reset zoom when clicked
+                const scale = 1;
+                const translateX = 0;
+                const translateY = 0;
+                const transform = d3.zoomIdentity.translate(translateX, translateY).scale(scale);
 
-                // Get the current zoom transform
-                const transform = event.transform;
+                // Apply the zoom transformation to the SVG
+                svg.transition()
+                    .duration(750)
+                    .call(zoom.transform, transform);
+
+                svg.selectAll(".route-line").remove();
 
                 // Load connections data
                 d3.csv("large_connections.csv").then(connections => {
@@ -112,8 +118,7 @@ d3.json("https://d3js.org/world-110m.v1.json").then(worldData => {
                             .attr("y2", destCoords[1])
                             .attr("stroke", "black")
                             .attr("stroke-width", 1)
-                            .attr("opacity", 0.8)
-                            .attr("transform", transform); 
+                            .attr("opacity", 0.8);
                     });
                 });
             });
