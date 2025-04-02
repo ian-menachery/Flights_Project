@@ -3,7 +3,7 @@
   }
 
   body {
-    font-family: 'Comic Sans MS', cursive, sans-serif;
+    font-family: 'Quicksand', sans-serif;
     margin: 0;
     padding: 0;
     background: url('cloudbackground.png') no-repeat center center fixed;
@@ -18,7 +18,7 @@
     text-align: center;
   }
 
-  h3 {
+  h4 {
     text-align: center;
   }
   
@@ -32,11 +32,12 @@
     width: 70%;
     margin: 40px auto;
     z-index: 10000;
-    border: 1px solid #ccc;
+    border: 1px solid #ffffff;
     overflow-y: auto;
-    background-color: white;
-    padding: 20px;
+    background-color: rgb(255, 255, 255);
+    padding: 40px;
     box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 5px;
   }
 
 .dashboard-container {
@@ -50,8 +51,10 @@
   width:150px;
   bottom: 0;
   background-color: #444;
+  border: 3px solid #0c0505;
   color: #fff;
   padding: 20px;
+  border-radius: 5px;
 }
 
 .dashboard-sidebar ul {
@@ -81,7 +84,7 @@
 }
 
 .card {
-  background-color: #fff;
+  background-color: #dcebf1;
   padding: 20px;
   margin-bottom: 20px;
   box-shadow: 0 2px 4px rgba(0,0,0,0.1);
