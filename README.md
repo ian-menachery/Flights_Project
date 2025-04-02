@@ -1,2 +1,2 @@
 # Flights_Project
-Website at https://ian-menachery.github.io/Flights_Project/index.html
+Website at https://ian-menachery.github.io/Flights_Project/website/
