@@ -47,7 +47,7 @@
   position: sticky;
   top: 60px; 
   left: 0;
-  width: 200px;
+  width:150px;
   bottom: 0;
   background-color: #444;
   color: #fff;
@@ -86,14 +86,6 @@
   margin-bottom: 20px;
   box-shadow: 0 2px 4px rgba(0,0,0,0.1);
   border-radius: 5px;
-}
-
-iframe {
-  display: block;         
-  width: 75%;            
-  height: auto;         
-  border: none;           
-  margin: 0 auto;         
 }
 .snowflake {
   color: #fff;
