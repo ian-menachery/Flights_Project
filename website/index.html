@@ -47,19 +47,23 @@
         <div class="snowflake">
             🌎
         </div>
+    </div>
 
         <div class = "container">
             <h1>Flight Networks in Asia: Visualizing Air Travel Routes</h1>
-            <h2>William Hanvey, Janet Lim, and Ian Menachery</h2>
+            <hr style="width:80%;text-align:center">
+            <h4>William Hanvey, Janet Lim, and Ian Menachery</h4>
             <div class = "dashboard-container">
                 <aside class = "dashboard-sidebar">
                     <h1>Dashboard</h1>
                     <nav>
                         <ul>
-                            <li><a href = "#Overview">Overview</a></li>
-                            <li><a href = "#Viz1">Viz1</a></li>
-                            <li><a href = "#Summary">Summary</a></li>
-                            <li><a href = "#References">References</a></li>
+                            <li><a href = "index.html">Overview</a></li>
+                            <li><a href = "viz3.html">Intro Visualizations</a></li>
+                            <li><a href = "viz2.html">Airport Bubble Map</a></li>
+                            <li><a href = "viz5.html">Flight Length by Airport</a></li>
+                            <li><a href = "viz4.html">Individual Airport Finder</a></li>
+                            <li><a href = "viz1.html">Country Pair Route Selector</a></li>
                         </ul>
                     </nav>
                 </aside>
@@ -67,71 +71,46 @@
                     <section id = "Overview">
                         <div class = "card">
                             <h2>Introduction</h2>
-                            <p>Our topic is related to flight route data. In other words, from a specific airport, we
-                                have data on
-                                the specific airport
-                                in addition to where you can fly directly to from that airport. From flight route data,
-                                we can
-                                gather a lot of information
-                                about the broader world- for example, we can see passenger travel trends, learn what
-                                countries have
-                                strong relations denoted by
-                                many flights between them, and see what countries may be the most connected to and the
-                                most isolated
-                                from the outside world. Aviation route data like
-                                this can tell us so much about geopolitical trends in our world, and is of great
-                                interest to all of
-                                us in the group.</p>
+                            <hr style="width:30%;text-align:center">
+                            <p>Our project focuses on aviation route data, specifically direct flight connections from individual airports around the world. 
+                                By analyzing where you can fly directly from a given airport, we gain valuable insight into patterns of global connectivity.
+                                Flight routes are more than just paths for planes. 
+                                They tell broader stories about our world. They highlight travel trends, showcase economic ties, and reflect political relationships between countries. 
+                                For example, the frequency and density of routes between two nations may suggest strong diplomatic or commercial bonds, while the absence of connections can point to isolation or geopolitical tension.
+                                This kind of data allows us to identify which regions are the most globally integrated and which are the most disconnected. 
+                                In a world where mobility and connection are vital, flight routes serve as a powerful lens to understand international relationships, regional development, and global movement patterns.
+                                Through this website, we aim to make sense of these networks. Our goal is not just to understand where planes go, but what those routes reveal about the world we live in.</p>
                                 
+                        </div>
+                    </section>
+
+                    <section id = "Dataset">
+                        <div class = "card">
                             <h2>Dataset</h2>
-                            <p>The data provides a global perspective on air travel, which gives us the opportunity to
-                                analyze the
-                                patterns between countries
-                                and their air travel routes. Identifying flight frequency patterns and airline hubs can
-                                reveal
-                                insights about economic activity,
-                                geopolitical issues, and global tourism. As for missing information, we don’t have data
-                                on pricing
-                                or the size of the aircraft
-                                flying the routes, so a route with a small propeller plane would be treated the same as
-                                a route with
-                                an Airbus A380.
-                                These are some possible limitations for our analysis, but we feel our website will still
-                                be
-                                interesting and educational even without those data points.</p>
-                        </div>
-                    </section>
-
-                    <section id = "Viz1">
-                        <div class = "card">
-                            <iframe src="airport_bubble_map.html"></iframe>
-                            <p></p>
-                        </div>
-                    </section>
-
-                    <section id = "Visualization 2">
-                        <div class = "card">
-                            <h2>viz 2</h2>
-                            <p>
-
-                            </p>
-                        </div>
-                    </section>
-
-                    <section id = "Visualization 3">
-                        <div class = "card">
-                            <h2>viz 3</h2>
-                            <p>
-
-                            </p>
+                            <hr style="width:30%;text-align:center">
+                            <p>We are using a dataset comprised of all current flight routes in Asia- a dataset with just over 10,000 rows- which gives us the opportunity to analyze the patterns between, 
+                                and within, countries. Identifying flight frequency patterns and airline hubs can reveal insights about economic activity, geopolitical 
+                                issues, and global tourism. The data we have also contains information like the airlines flying each route, the average length the route 
+                                takes, and information about the airport, such as coordinates, altitude, and the city the airport is tied to and country it is located in. 
+                                There are some data points we don’t have- such as data on pricing or the size of the aircraft flying the routes, so a route with a small 
+                                propellor plane is treated the same by our analysis as a route with a massive Airbus A380. Despite these limitations, though, we feel 
+                                we were able to create a lot of interesting visualizations and learn a lot about the world.</p>
                         </div>
                     </section>
 
                     <section id = "Summary">
                         <div class = "card">
                             <h2>Summary of Findings</h2>
+                            <hr style="width:30%;text-align:center">
                             <p>
-
+                                Flight paths can tell us a lot about the world. They tell us where groups of people go for leisure, where their families are, where their ancestors lived, 
+                                where they go for business, and places where they don’t go. By analyzing flight routes, we were able to identify geopolitical bonds between nations, such as 
+                                countries like Singapore that act like a hub for a region, or, the opposite- countries like India and China, two huge countries that aren’t on the friendliest 
+                                of terms. We can identify things like population density by looking at bubble maps and learn about the efficiency of the governments of different nations by 
+                                looking at timeliness patterns. While our project was focused on Asia specifically, in the future, it would be beneficial to expand it to cover the entire world 
+                                to get a bigger picture of these topics. Additionally, a timeline of flight routes would be useful, as we would be able to uncover things like seasonal trends or 
+                                turning points in interstate relations, such as the point when China and India cut off flights or Qatar’s improving relationship with Saudi Arabia after a crisis 
+                                that started in 2017. Still, though, we believe we were able to learn a lot with what data we have, and we hope to expand our project in the future.
                             </p>
                         </div>
                     </section>
@@ -139,14 +118,32 @@
                     <section id = "References">
                         <div class = "card">
                             <h2>References</h2>
+                            <hr style="width:30%;text-align:center">
                             <p>
+                                <em>Prabhakar, N., Anbarasi, L.J. Exploration of the global air transport network using social network analysis. Soc. Netw. Anal. Min. 11, 26 (2021). 
+                                    https://doi.org/10.1007/s13278-021-00735-1</em>
+
+                                <br><br>This paper explores airline networks through the lens of complex network theory. 
+                                The study develops and employs network metrics (such as centrality measures, clustering coefficients, and connectivity indices) to quantify how flight routes are structured.
+                                A focus on direct connections helps in understanding how individual airports contribute to global connectivity, revealing trends in route density and network integration.
+
+                                <br><br><em>
+                                    Albers, S., Allroggen, F., Brueckner, J., Chang, Y. C., Cheung, T. K. Y., Fichert, F., Li, W., Logothetis, M., Luttmann, A., Maertens, S., Malighetti, P., Nenem, S., Suau-Sanchez, P., & Zuidberg, J. (2022, September 8).
+                                 Assessment of hub airports’ connectivity and self-connection potentials. Transport Policy. 
+                                 https://www.sciencedirect.com/science/article/pii/S0967070X22002451 
+                                </em>
+
+                                <br><br>This paper investigates global transportation networks with a strong emphasis on aviation connectivity. 
+                                It applies complex network analysis techniques to explore the structure and dynamics of flight networks. 
+                                The study identifies central nodes (airports) that serve as major hubs within the network and examines how these hubs influence overall connectivity. By analyzing direct flight connections, 
+                                the paper reveals patterns in the network’s structure, such as clustering and path lengths, which in turn highlight potential vulnerabilities and strengths in global connectivity.
+
 
                             </p>
                         </div>
                     </section>
                 </main>
             </div>
-        </div>
 </body>
 
 </html>

@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    #vis.vega-embed {
+      width: 100%;
+      display: flex;
+    }
+
+    #vis.vega-embed details,
+    #vis.vega-embed details summary {
+      position: relative;
+    }
+  </style>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/vega@5"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/vega-lite@5.20.1"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
+</head>
+<body>
+  <div id="vis"></div>
+  <script>
+    (function(vegaEmbed) {
+      var spec = {"config": {"view": {"continuousWidth": 300, "continuousHeight": 300}}, "data": {"name": "data-060b6bd3163d41a12f84eb0f0d12bd0d"}, "mark": {"type": "circle"}, "encoding": {"color": {"field": "Origin Country", "title": "Origin Country", "type": "nominal"}, "size": {"field": "Flight Count", "legend": null, "scale": {"range": [100, 1000]}, "type": "quantitative"}, "tooltip": [{"field": "Origin", "type": "nominal"}, {"field": "Origin Country", "type": "nominal"}, {"field": "Flight Count", "type": "quantitative"}], "x": {"field": "Origin", "sort": {"field": "Flight Count", "order": "descending"}, "title": "Origin Airport", "type": "nominal"}, "y": {"field": "Flight Count", "title": "Number of Flights", "type": "quantitative"}}, "height": 400, "title": "Flight Count by Origin Airport (>=100 Flights, Colored by Country)", "width": 600, "$schema": "https://vega.github.io/schema/vega-lite/v5.20.1.json", "datasets": {"data-060b6bd3163d41a12f84eb0f0d12bd0d": [{"Origin": "BKK", "Origin Country": "Thailand", "Flight Count": 114}, {"Origin": "CAN", "Origin Country": "China", "Flight Count": 169}, {"Origin": "CKG", "Origin Country": "China", "Flight Count": 142}, {"Origin": "DEL", "Origin Country": "India", "Flight Count": 112}, {"Origin": "DXB", "Origin Country": "United Arab Emirates", "Flight Count": 136}, {"Origin": "HAK", "Origin Country": "China", "Flight Count": 115}, {"Origin": "HGH", "Origin Country": "China", "Flight Count": 121}, {"Origin": "HKG", "Origin Country": "Hong Kong SAR", "Flight Count": 100}, {"Origin": "ICN", "Origin Country": "Republic of Korea", "Flight Count": 114}, {"Origin": "IST", "Origin Country": "Turkiye", "Flight Count": 113}, {"Origin": "KMG", "Origin Country": "China", "Flight Count": 145}, {"Origin": "KUL", "Origin Country": "Malaysia", "Flight Count": 126}, {"Origin": "PEK", "Origin Country": "China", "Flight Count": 160}, {"Origin": "PKX", "Origin Country": "China", "Flight Count": 153}, {"Origin": "PVG", "Origin Country": "China", "Flight Count": 189}, {"Origin": "SIN", "Origin Country": "Singapore", "Flight Count": 111}, {"Origin": "SZX", "Origin Country": "China", "Flight Count": 143}, {"Origin": "TFU", "Origin Country": "China", "Flight Count": 180}, {"Origin": "WUH", "Origin Country": "China", "Flight Count": 110}, {"Origin": "XIY", "Origin Country": "China", "Flight Count": 160}]}};
+      var embedOpt = {"mode": "vega-lite"};
+
+      function showError(el, error){
+          el.innerHTML = ('<div style="color:red;">'
+                          + '<p>JavaScript Error: ' + error.message + '</p>'
+                          + "<p>This usually means there's a typo in your chart specification. "
+                          + "See the javascript console for the full traceback.</p>"
+                          + '</div>');
+          throw error;
+      }
+      const el = document.getElementById('vis');
+      vegaEmbed("#vis", spec, embedOpt)
+        .catch(error => showError(el, error));
+    })(vegaEmbed);
+
+  </script>
+</body>
+</html>

@@ -1,0 +1,1006 @@
+,iata,name,country,city_name,latitude,longitude
+0,AAN,Al Ain International Airport,United Arab Emirates,Al Ain,24.260231,55.616626
+1,AAP,Aji Pangeran Tumenggung Airport,Indonesia,Samarinda,-0.372898,117.250905
+2,AAT,Altay Airport,China,Altay,47.750361,88.084444
+3,AAY,Al Ghaydah,Republic of Yemen,Al Ghaydah,16.195959,52.173255
+4,ABD,Abadan,Iran,Abadan,30.363905,48.226598
+5,ABT,Al-Aqiq Airport,Saudi Arabia,Al-Baha,20.294011,41.64002
+6,ABU,Haliwen Airport,Indonesia,Atambua,-9.075208,124.906972
+7,ACF,Alaer Talimu Airport,China,Alaer,40.435556,81.263889
+8,ACP,Sahand Airport,Iran,Sahand,37.347244,46.145116
+9,ACX,Xingyi Airport,China,Xingyi,25.085556,104.959444
+10,ACZ,Zabol Airport,Iran,Zabol,31.087694,61.542245
+11,ADA,Adana,Turkiye,Adana,36.982185,35.280391
+12,ADB,İzmir Adnan Menderes Airport,Turkiye,Izmir,38.294403,27.147594
+13,ADE,Aden Intl,Republic of Yemen,Aden,12.826116,45.037535
+14,ADU,Ardabil Airport,Iran,Ardabil,38.323826,48.42125
+15,AEB,Tianyang,China,Baise,23.719469,106.967772
+16,AEU,Abu Musa Airport,Iran,Abu Musa,25.875475,55.033913
+17,AGR,Agra,India,Agra,27.158333,77.962778
+18,AGX,Agatti Island Airport,India,Agatti Island,10.828967,72.179874
+19,AHB,Abha,Saudi Arabia,Abha,18.23429,42.657575
+20,AHJ,Hongyuan Airport,China,Hongyuan,32.527401,102.357396
+21,AIP,Adampur Airport,India,Adampur,31.433056,75.760556
+22,AJF,Jouf,Saudi Arabia,Jouf,29.788668,40.101486
+23,AJI,Agri,Turkiye,Agri,39.65,43.025
+24,AJK,Arak Airport,Iran,Arak,34.134875,49.842483
+25,AJL,Aizawl,India,Aizawl,23.838986,92.624815
+26,AKA,Ankang Airport,China,Ankang,32.7091,108.936
+27,AKJ,Asahikawa,Japan,Asahikawa,43.671091,142.454546
+28,AKU,Aksu Airport,China,Aksu,41.259984,80.292618
+29,AKX,Aktyubinsk,Kazakhstan,Aktobe,50.249336,57.211403
+30,AKY,Sittwe,Myanmar,Sittwe,20.130278,92.880278
+31,ALA,Almaty International Airport,Kazakhstan,Almaty,43.35136,77.037091
+32,ALP,Aleppo International,Syrian Arab Republic,Aleppo,36.185351,37.227073
+33,AMD,Ahmedabad Airport,India,Ahmedabad,23.066389,72.624167
+34,AMM,Queen Alia International,Jordan,Amman,31.722535,35.989318
+35,AMQ,Pattimura,Indonesia,Ambon,-3.704996,128.088876
+36,AOG,Anshan Teng'ao Airport,China,Anshan,41.105975,122.853926
+37,AOJ,Aomori,Japan,Aomori,40.738757,140.689224
+38,AOR,Sultan Abdul Halim,Malaysia,Alor Setar,6.191186,100.396629
+39,AQG,Anqing Airport,China,Anqing,30.5825,117.0509
+40,AQI,Qaisumah,Saudi Arabia,Qaisumah,28.334408,46.121316
+41,AQJ,Aqaba,Jordan,Aqaba,29.610074,35.021511
+42,ARD,Alor Island,Indonesia,Alor Island,-8.132639,124.598106
+43,ASB,Ashgabat,Turkmenistan,Ashgabat,37.984183,58.366978
+44,ASJ,Amami O Shima,Japan,Amami O Shima,28.431522,129.707933
+45,ASR,Erkilet,Turkiye,Kayseri,38.770293,35.494891
+46,ATQ,Amritsar,India,Amritsar,31.705398,74.806739
+47,AUH,Zayed International Airport,United Arab Emirates,Abu Dhabi,24.426912,54.645974
+48,AVA,An Shun/Huang Guo Shu Airport,China,An Shun,26.260049,105.872814
+49,AWZ,Ahwaz,Iran,Ahwaz,31.342921,48.746682
+50,AXF,Alxa Left Banner Airport,China,Alxa Left Banner,38.823318,105.630964
+51,AXJ,Amakusa Airport,Japan,Amakusa,32.483262,130.155645
+52,AXT,Akita,Japan,Akita,39.611771,140.220147
+53,AYT,Antalya Airport,Turkiye,Antalya,36.899282,30.801349
+54,AZD,Yazd Shahid Sadooghi,Iran,Yazd,31.903602,54.283264
+55,AZH,Azamgarh Airport,India,Azamgarh,26.153333,83.118333
+56,BAH,Bahrain International Airport,Bahrain,Bahrain,26.269181,50.62605
+57,BAL,Batman,Turkiye,Batman,37.916667,41.083333
+58,BAR,Qionghai Bo'ao Airport,China,Qionghai,19.139421,110.456806
+59,BAV,Baotou Airport,China,Baotou,40.563442,109.998495
+60,BBI,Bhubaneshwar,India,Bhubaneswar,20.252853,85.817385
+61,BBN,Bario Airport,Malaysia,Bario,3.683333,115.466667
+62,BCD,Silay International Airport,Philippines,Bacolod,10.7764,123.014999
+63,BDH,Bandar Lengeh,Iran,Bandar Lengeh,26.529485,54.829146
+64,BDJ,Syamsudin Noor,Indonesia,Banjarmasin,-3.43804,114.754253
+65,BDP,Bhadrapur,Nepal,Bhadrapur,26.533333,88.083333
+66,BDQ,Vadodara,India,Vadodara,22.329077,73.215701
+67,BEJ,Berau,Indonesia,Berau,2.155327,117.433488
+68,BEK,Bareilly Airport,India,Bareilly,28.423379,79.447575
+69,BEY,Beirut International Airport,Lebanon,Beirut,33.826073,35.493082
+70,BFJ,Bijie Airport,China,Bijie,27.26672,105.47096
+71,BFV,Buri Ram,Thailand,Buri Ram,15.226944,103.255278
+72,BGW,Baghdad International Airport,Iraq,Baghdad,33.255879,44.232069
+73,BHH,Bisha,Saudi Arabia,Bisha,19.994509,42.618485
+74,BHJ,Bhuj,India,Bhuj,23.2875,69.670556
+75,BHK,Bukhara,Uzbekistan,Bukhara,39.760369,64.474792
+76,BHO,Bhopal,India,Bhopal,23.290623,77.335531
+77,BHR,Bharatpur Airport,Nepal,Bharatpur,27.676389,84.4325
+78,BHU,Bhavnagar,India,Bhavnagar,21.755,72.184444
+79,BHY,Beihai Airport,China,Beihai,21.5431,109.288702
+80,BIK,Frans Kaisiepo,Indonesia,Biak,-1.189503,136.107301
+81,BIR,Biratnagar,Nepal,Biratnagar,26.483439,87.266187
+82,BJB,Bojnord,Iran,Bojnord,37.489719,57.308849
+83,BJV,Bodrum - Milas,Turkiye,Bodrum,37.243952,27.672781
+84,BJW,Bajawa Soa Airport,Indonesia,Bajawa,-8.813029,120.998515
+85,BKB,Nal Airport,India,Bikaner,28.070601,73.207199
+86,BKI,Kota Kinabalu International,Malaysia,Kota Kinabalu,5.923961,116.050753
+87,BKK,Suvarnabhumi Airport,Thailand,Bangkok,13.693062,100.752044
+88,BKM,Bakalalan Airport,Malaysia,Bakalalan,3.966667,115.616667
+89,BKS,Padang Kemiling,Indonesia,Bengkulu,-3.860561,102.338273
+90,BLR,Kempegowda International Airport,India,Bengaluru,13.200771,77.710228
+91,BMO,Banmaw Airport,Myanmar,Bhamo,24.268355,97.249057
+92,BMU,Muhammad Salahuddin,Indonesia,Bima,-8.542521,118.691765
+93,BMV,Banmethuot,Viet Nam,Buon Ma Thout,12.666667,108.05
+94,BND,Bandar Abbas,Iran,Bandar Abbas,27.21059,56.368384
+95,BOM,Chhatrapati Shivaji Maharaj International Airport,India,Mumbai,19.089891,72.868047
+96,BPE,Qinhuangdao Beidaihe Airport,China,Qinhuangdao,39.665743,119.059748
+97,BPL,Bole Alashankou Airport,China,Bole,44.895,82.299722
+98,BPN,Sepinggan,Indonesia,Balikpapan,-1.260623,116.900817
+99,BPR,Borongan Airport,Philippines,Borongan,11.6743001938,125.478996277
+100,BPX,Bangda,China,Bangda,30.555833,97.106667
+101,BSD,Baoshan,China,Baoshan,25.055181,99.161427
+102,BSO,Basco Airport,Philippines,Basco,20.453056,121.977778
+103,BSR,Basrah International,Iraq,Basra,30.552695,47.666865
+104,BTH,Hang Nadim,Indonesia,Batam,1.123627,104.115279
+105,BTJ,Sultan Iskandarmuda,Indonesia,Banda Aceh,5.518021,95.418329
+106,BTU,Bintulu,Malaysia,Bintulu,3.123505,113.023112
+107,BTW,Batulicin Airport,Indonesia,Batulicin,-3.41194,116.000082
+108,BUP,Bathinda Airport,India,Bathinda,30.270092,74.755809
+109,BUS,Batumi,Georgia,Batumi,41.610833,41.600556
+110,BUT,Bathpalathang Airport,Bhutan,Jakar,27.562955,90.746101
+111,BUU,Muara Bungo Airport,Indonesia,Muara Bungo,-1.540169,102.179283
+112,BUW,Baubau Airport,Indonesia,Baubau,-5.48688,122.569
+113,BUZ,Bushehr,Iran,Bushehr,28.958285,50.825425
+114,BWA,Bhairahawa,Nepal,Bhairawa,27.504167,83.42
+115,BWN,Brunei International,Brunei Darussalam,Bandar Seri Begawan,4.945197,114.93375
+116,BWX,Blimbingsari Airport,Indonesia,Banyuwangi,-8.310229,114.340461
+117,BXR,Bam Airport,Iran,Bam,29.080082,58.449356
+118,BXU,Butuan,Philippines,Butuan,8.947999,125.481228
+119,BZL,Barisal Airport,Bangladesh,Barisal,22.798942,90.301446
+120,BZX,Enyang Airport,China,Bazhong,31.738056,106.643889
+121,CAH,Ca Mau,Viet Nam,Ca Mau,9.175556,105.179444
+122,CAN,Guangzhou Baiyun International Airport,China,Guangzhou,23.387862,113.29734
+123,CBO,Cotabato,Philippines,Cotabato,7.161412,124.214639
+124,CCJ,Calicut,India,Kozhikode,11.138782,75.949976
+125,CCU,Kolkata Netaji Subhas Chandra Bose Intl Airport,India,Kolkata,22.655,88.447
+126,CDE,Puning Airport,China,Chengde,41.123079,118.07135
+127,CDP,Cuddapah,India,Kadapa,14.514583,78.76478
+128,CEB,Mactan–Cebu International,Philippines,Cebu City,10.313333,123.982778
+129,CEI,Chiang Rai Intl,Thailand,Chiang Rai,19.954608,99.878811
+130,CGD,Changde Airport,China,Changde,28.924467,111.638863
+131,CGK,Soekarno Hatta International,Indonesia,Jakarta,-6.130643,106.655526
+132,CGM,Camiguin Airport,Philippines,Mambajao,9.253611,124.706944
+133,CGO,Zhengzhou Xinzheng International Airport,China,Zhengzhou,34.527519,113.840242
+134,CGP,Shah Amanat International,Bangladesh,Chittagong,22.245202,91.815159
+135,CGQ,Changchun Longjia International Airport,China,Changchun,43.99611,125.68528
+136,CGY,Cagayan De Oro,Philippines,Cagayan De Oro,8.6125,124.457222
+137,CIF,Chifeng Airport,China,Chifeng,42.154523,118.833173
+138,CIH,Changzhi Airport,China,Changzhi,36.245881,113.121585
+139,CIT,Shymkent,Kazakhstan,Shymkent,42.364842,69.492845
+140,CJB,Coimbatore,India,Coimbatore,11.031026,77.038931
+141,CJJ,Cheongju International Airport,Republic of Korea,Cheongju,36.7224,127.495087
+142,CJL,Chitral Airport,Pakistan,Chitral,35.886111,71.794444
+143,CJM,Chumphon,Thailand,Chumphon,10.711122,99.361376
+144,CJU,Jeju International,Republic of Korea,Jeju,33.506698,126.493119
+145,CKG,Chongqing Jiangbei International Airport,China,Chongqing,29.7192,106.641998
+146,CKZ,Canakkale Airport,Turkiye,Canakkale,40.137422,26.426943
+147,CMB,Bandaranaike International,Sri Lanka,Colombo,7.174112,79.886494
+148,CNN,Kannur International Airport,India,Kannur,11.920073,75.549919
+149,CNX,Chiang Mai Intl,Thailand,Chiang Mai,18.769574,98.968409
+150,COH,Cooch Behar Airport,India,Cooch Behar,26.333333,89.466667
+151,COK,Cochin,India,Kochi,10.155644,76.390537
+152,CQD,Shahre Kord Airport,Iran,Shahre Kord,32.297199,50.842201
+153,CQW,Chongqing Xiannvshan Airport,China,Wulong,29.4642,107.6933
+154,CRK,Diosdado Macapagal International,Philippines,Angeles,15.187696,120.549789
+155,CRM,Catarman National Airport,Philippines,Catarman,12.502492,124.63591
+156,CRZ,Turkmenabat,Turkmenistan,Chardzhev,39.09258,63.601198
+157,CSX,Changsha Huanghua Airport,China,Changsha,28.193336,113.214592
+158,CTS,Sapporo,Japan,Sapporo,42.787281,141.681341
+159,CTU,Chengdu Shuangliu International Airport,China,Chengdu,30.581134,103.956799
+160,CWJ,Cangyuan Washan Airport,China,Cangyuan,23.274856,99.371301
+161,CWK,Chitrakoot Airport,India,Chitrakoot,25.167694,80.9358
+162,CXB,Coxs Bazar,Bangladesh,Coxs Bazar,21.45,91.966667
+163,CXR,Cam Ranh Airport,Viet Nam,Nha Trang,12.006816,109.21695
+164,CYI,Chiayi,Taiwan,Chiayi,23.454241,120.398265
+165,CYP,Calbayog Airport,Philippines,Calbayog,12.075833,124.543056
+166,CYZ,Cauayan Airport,Philippines,Cauayan,16.93,121.755833
+167,CZX,Changzhou,China,Changzhou,31.914116,119.779762
+168,DAC,Zia International,Bangladesh,Dhaka,23.848649,90.405874
+169,DAD,Da Nang,Viet Nam,Da Nang,16.053339,108.202753
+170,DAM,Damascus International,Syrian Arab Republic,Damascus,33.411171,36.512488
+171,DAT,Datong Airport,China,Datong,40.05554,113.481362
+173,DBC,Baicheng Chang'an Airport,China,Baicheng,45.505011,123.018851
+174,DBR,Darbhanga Airport,India,Darbhanga,26.1933,85.9114
+175,DCY,Daocheng Yading Airport,China,Daocheng,29.323056,100.053333
+176,DDD,Dhaalu Atoll Airport,Maldives,Kudahuvadhoo,2.666093,72.886139
+177,DDG,Dandong,China,Dandong,40.024701,124.286009
+178,DED,Dehradun,India,Dehra Dun,30.316667,78.033333
+179,DEF,Dezful Airport,Iran,Dezful,32.438827,48.384683
+180,DEL,Indira Gandhi International Airport,India,Delhi,28.556162,77.099958
+181,DEX,Nop Goliath Airport,Indonesia,Yahukimo,-4.8557,139.482
+182,DGH,Deoghar International Airport,India,Deoghar,24.446842,86.704955
+183,DGT,Dumaguete,Philippines,Dumaguete,9.332543,123.296011
+184,DHI,Dhangarhi Airport,Nepal,Dhangarhi,28.7533,80.581902
+185,DHM,Gaggal Airport,India,Dharamsala,32.165481,76.260688
+186,DIB,Dibrugarh Airport,India,Dibrugarh,27.483222,95.016474
+187,DIG,Diqing Shangri-La Airport,China,Diqing,27.795839,99.680584
+188,DIN,Dien Bien Phu,Viet Nam,Dien Bien Phu,21.383333,103.0
+189,DIU,Diu Airport,India,Diu,20.716667,70.916667
+190,DIY,Diyarbakir,Turkiye,Diyarbakir,37.910803,40.197356
+191,DJB,Sultan Thaha,Indonesia,Jambi,-1.631628,103.638826
+192,DJJ,Sentani,Indonesia,Jayapura,-2.569887,140.51299
+193,DLC,Dalian Zhoushuizi International Airport,China,Dalian,38.96102,121.539991
+194,DLI,Dalat,Viet Nam,Dalat,11.749689,108.376033
+195,DLM,Dalaman,Turkiye,Dalaman,36.717336,28.787155
+196,DLU,Dali,China,Dali City,25.65135,100.323158
+197,DLZ,Gurvan Saikhan Airport,Mongolia,Dalanzadgad,43.606001,104.370329
+198,DMB,Taraz,Kazakhstan,Taraz,42.855372,71.304595
+199,DMK,Don Mueang International Airport,Thailand,Bangkok,13.9125,100.606667
+200,DMM,King Fahd International,Saudi Arabia,Dammam,26.471111,49.797778
+201,DMU,Dimapur,India,Dimapur,25.879816,93.772866
+202,DNH,Dunhuang Airport,China,Dunhuang,40.2,94.683333
+203,DNZ,Cardak,Turkiye,Denizli,37.787222,29.703333
+204,DOB,Dobo,Indonesia,Dobo,-5.77376,134.209426
+205,DOH,Hamad International Airport,Qatar,Doha,25.260988,51.613594
+206,DOY,Dongying Airport,China,Dongying,37.518333,118.787778
+207,DPL,Dipolog,Philippines,Dipolog,8.599978,123.344179
+208,DPS,Bali International,Indonesia,Denpasar,-8.748056,115.1675
+209,DQA,Daqing Shi Airport,China,Daqing,46.746985,125.133991
+210,DQM,Duqm International Airport,Oman,Duqm,19.502323,57.6383
+211,DRV,Dharavandhoo AIrport,Maldives,Dharavandhoo Island,5.156111,73.13028
+212,DSN,Dongsheng,China,Dongsheng,39.496721,109.860527
+213,DTB,Silangit Airport,Indonesia,Siborong-Borong,2.259722,98.995278
+214,DTU,Dedu Airport,China,Wudalianchi,48.440556,126.127778
+215,DVO,Francisco Bangoy International,Philippines,Davao,7.130696,125.644698
+216,DWC,Dubai Al Maktoum,United Arab Emirates,Dubai,24.892845,55.162467
+217,DWD,Dawadmi Airport,Saudi Arabia,Dawadmi,24.445546,44.128702
+218,DXB,Dubai International Airport,United Arab Emirates,Dubai,25.256557,55.366071
+219,DYG,Dayong Airport,China,Dayong,29.10712,110.445685
+220,DYU,Dushanbe,Tajikistan,Dushanbe,38.54894,68.817287
+221,DZH,Dazhou Jinya Airport,China,Dazhou,31.048611,107.435556
+222,DZN,Zhezkazgan Airport,Kazakhstan,Zhezkazgan,47.7,67.733333
+223,EAM,Nejran Airport,Saudi Arabia,Nejran,17.613282,44.414646
+224,EBL,Erbil Intl,Iraq,Erbil,36.2375,43.963056
+225,ECN,Ercan International Airport,Cyprus,Ercan,35.158118,33.50307
+226,EDO,Edremit,Turkiye,Edremit,39.549267,27.011319
+227,EHU,Ezhou Huahu Airport,China,Ezhou,30.3427,115.0297
+228,ELQ,Gassim,Saudi Arabia,Gassim,26.305029,43.768178
+229,ENE,H Hasan Aroeboesman,Indonesia,Ende,-8.848239,121.664653
+230,ENH,Enshi Airport,China,Enshi,30.321934,109.482012
+231,ENI,El Nido Airport,Philippines,El Nido,11.203469,119.413979
+232,ENY,Nanniwan Airport,China,Yan'an,36.479722,109.463889
+233,ERC,Erzincan,Turkiye,Erzincan,39.711667,39.516944
+234,ERL,Eren Hot Airport,China,Eren Hot,43.426673,112.09845
+235,ERZ,Erzurum,Turkiye,Erzurum,39.961346,41.179378
+236,ESB,Ankara Esenboğa Airport,Turkiye,Ankara,40.114941,32.993145
+237,EUQ,Evelio Javier  Airport,Philippines,Antique,10.767873,121.932971
+238,EVN,Zvartnots International Airport,Armenia,Yerevan,40.15272,44.39805
+239,EWE,Ewer,Indonesia,Ewer,-5.483333,138.083333
+240,EZS,Elazig,Turkiye,Elazig,38.599326,39.26829
+241,FEG,Fergana Airport,Uzbekistan,Fergana,40.350278,71.733611
+242,FJR,Fujairah International Airport,United Arab Emirates,Al-Fujairah,25.109444,56.330556
+243,FKQ,Fak Fak,Indonesia,Fak Fak,-2.916667,132.3
+244,FKS,Fukushima,Japan,Fukushima,37.226667,140.432778
+245,FLZ,Ferdinand Lumban Tobing Airport,Indonesia,Sibolga,1.555833,98.888889
+246,FNJ,Pyongyang / Sunan (Capital) Airport,Democratic People's Republic of Korea,Pyongyang,39.200649,125.675368
+247,FOC,Fuzhou Changle International Airport,China,Fuzhou,25.931231,119.66923
+248,FRU,Manas,Kyrgyzstan,Bishkek,43.053581,74.469449
+249,FSZ,Shizuoka Airport,Japan,Shizuoka,34.796111,138.189444
+250,FUG,Fuyang Airport,China,Fuyang,32.866667,115.7
+251,FUJ,Fukue,Japan,Fukue,32.667826,128.837611
+252,FUK,Fukuoka,Japan,Fukuoka,33.584286,130.443891
+253,FUO,Foshan,China,Fuoshan,23.081156,113.071443
+254,FYJ,Fuyuan Airport,China,Fuyuan County,48.19722,134.36333
+255,FYN,Fuyun Koktokay Airport,China,Fuyun,46.801111,89.538333
+256,GAJ,Yamagata Airport,Japan,Yamagata,38.411944,140.371111
+257,GAN,Gan Island,Maldives,Gan Island,-0.690003,73.156538
+258,GAU,Lokpriya Gopinath Bordoloi International Airport,India,Guwahati,26.105185,91.588427
+259,GAY,Gaya,India,Gaya,24.746667,84.945833
+260,GBI,Kalaburagi Airport,India,Gulbarga,17.307642,76.956805
+261,GBT,Gorgan Airport,Iran,Gorgon,36.908509,54.410516
+262,GCH,Gachsaran Airport,Iran,Gachsaran,30.3364,50.831656
+263,GDB,Birsi Airport,India,Gondia,21.5227,80.2905
+264,GES,General Santos International Airport,Philippines,General Santos City,6.057778,125.095833
+265,GHS,Melalan Airport,Indonesia,West Kutai,-0.203889,115.759722
+266,GIL,Gilgit,Pakistan,Gilgit,35.919721,74.33224
+267,GIZ,Jazan,Saudi Arabia,Jazan,16.898949,42.582344
+268,GKK,Kooddoo Island Airport,Maldives,Kooddoo Island,0.730833,73.43305
+269,GLU,Gelephu Airport,Bhutan,Gelephu,26.883481,90.465966
+270,GMP,Gimpo,Republic of Korea,Seoul,37.559287,126.803512
+271,GMQ,Golog Maqin Airport,China,Golog,34.415833,100.311111
+272,GNJ,Ganja Airport,Azerbaijan,Gyandzha,40.733333,46.316667
+273,GNS,Gunungsitoli Airport,Indonesia,Gunungsitoli,1.25,97.5
+274,GOI,Goa,India,Goa,15.384534,73.839825
+275,GOP,Gorakhpur Airport,India,Gorakhpur,26.746862,83.443762
+276,GOQ,Golmud,China,Golmud,36.404633,94.789305
+277,GOX,Mopa Airport,India,Goa,15.73139,73.86778
+279,GSM,Dayrestan Airport,Iran,Qeshm Island,26.757778,55.905278
+280,GTO,Jalaluddin,Indonesia,Gorontalo,0.639039,122.850876
+281,GUW,Atyrau,Kazakhstan,Atyrau,47.122815,51.829554
+282,GWD,Gwadar,Pakistan,Gwadar,25.230556,62.338889
+283,GWL,Gwalior,India,Gwalior,26.293889,78.23
+284,GXF,Seiyun,Republic of Yemen,Seiyun,15.961794,48.787085
+285,GXH,Gannan Xiahe Airport,China,Xiahe,34.810556,102.644722
+286,GYD,Heydar Aliyev International Airport,Azerbaijan,Baku,40.462487,50.05039
+287,GYS,Guangyuan Airport,China,Guangyuan,32.390572,105.695681
+288,GYU,Guyuan Liupanshan Airport,China,Guyuan,36.078889,106.216944
+289,GZG,Ganzi Airport,China,Ganzi,31.755835,99.556669
+290,GZP,Gazipasa Airport,Turkiye,Gazipasa,36.2993,32.3014
+291,GZT,Oguzeli,Turkiye,Gaziantep,36.947182,37.478682
+292,HAC,Hachijo Jima Airport,Japan,Hachijo Jima,33.117945,139.781226
+293,HAK,Haikou Meilan International Airport,China,Haikou,19.934877,110.45896
+294,HAN,Noibai International,Viet Nam,Hanoi,21.214184,105.802827
+295,HAS,Hail,Saudi Arabia,Hail,27.438158,41.690483
+296,HBQ,Haibei Airport,China,Qilian,38.008333,100.640833
+297,HBX,Hubli Airport,India,Hubli,15.359573,75.086305
+298,HCJ,Hechi Jinchengjiang Airport,China,Hechi,24.783889,107.699722
+299,HCZ,Beihu Airport,China,Chenzhou,25.75333,112.84444
+300,HDG,Handan Airport,China,Handan,36.525833,114.425
+301,HDM,Hamadan Airport,Iran,Hamadan,34.867146,48.537318
+302,HDY,Hat Yai International,Thailand,Hat Yai,6.936764,100.393566
+303,HEA,Herat,Afghanistan,Herat,34.212696,62.22599
+304,HEH,Heho,Myanmar,Heho,20.743863,96.79341
+305,HEK,Heihe Airport,China,Heihe,50.171662,127.308905
+306,HET,Hohhot Baita International Airport,China,Hohhot,40.854712,111.814157
+307,HFE,Hefei Xinqiao Airport,China,Hefei,31.992778,116.973333
+308,HGH,Hangzhou Xiaoshan International Airport,China,Hangzhou,30.236934,120.432356
+309,HGN,Mae Hong Son,Thailand,Mae Hong Son,19.29968,97.975227
+310,HHP,Sheung Wan Heliport,Hong Kong SAR,Hong Kong,22.288896,114.152237
+311,HHQ,Hua Hin Airport,Thailand,Hua Hin,12.636229,99.951533
+312,HIA,Huai'an Lianshui Airport,China,Huai'an,33.7875,119.12778
+313,HIJ,Hiroshima,Japan,Hiroshima,34.436111,132.919444
+314,HIN,Jinju,Republic of Korea,Jinju,35.092629,128.086765
+315,HJJ,Zhijiang Airport,China,Huaihua,27.441389,109.699722
+316,HJR,Khajuraho,India,Khajuraho,24.818746,79.916417
+317,HKD,Hakodate,Japan,Hakodate,41.776125,140.815817
+318,HKG,Hong Kong International Airport,Hong Kong SAR,Hong Kong,22.315248,113.93649
+319,HKT,Phuket International Airport,Thailand,Phuket,8.107619,98.306436
+320,HLD,Dongshan,China,Hailar,49.209906,119.818129
+321,HLH,Ulanhot Airport,China,Ulanhot,46.193488,122.001482
+322,HLP,Halim Perdanakusuma International,Indonesia,Jakarta,-6.268056,106.890278
+323,HMI,Hami Airport,China,Hami,42.916667,93.416667
+324,HNA,Hanamaki,Japan,Hanamaki,39.426926,141.130767
+325,HND,Haneda Airport,Japan,Tokyo,35.553476,139.781206
+326,HNY,Hengyang Nanyue Airport,China,Hengyang,26.723889,112.618333
+327,HOF,Hofuf,Saudi Arabia,Hofuf,25.294783,49.487462
+328,HOX,Homalin Airport,Myanmar,Homalin,24.898928,94.914636
+329,HPG,Shennongjia Airport,China,Hongping,31.63333,110.33778
+330,HPH,Cat Bi International Airport,Viet Nam,Haiphong,20.823314,106.727325
+331,HRB,Taiping Airport,China,Harbin,45.620854,126.23644
+332,HRH,Aligarh Airport,India,Aligarh,27.8592,78.1487
+333,HSA,Turkistan International Airport,Kazakhstan,Turkistan,43.31111,68.550278
+334,HSC,Shaoguan Airport,China,Shaoguan,24.833333,113.616667
+335,HSG,Saga Airport,Japan,Saga,33.153828,130.302775
+336,HSN,Zhoushan,China,Zhoushan,29.935258,122.356914
+337,HTN,Hotan,China,Hotan,37.040434,79.872449
+338,HTT,Huatugou Airport,China,Huatugou,38.256275,90.830354
+339,HTY,Hatay Airport,Turkiye,Antakya,36.364544,36.28057
+340,HUI,Phu Bai,Viet Nam,Hue,16.398224,107.700871
+341,HUN,Hualien,Taiwan,Hualien,24.025764,121.613431
+342,HUO,Huolinhe Airport,China,Huolinguole,45.48673,119.40851
+343,HUZ,Huizhou,China,Huizhou,23.050418,114.596859
+344,HVD,Khovd Airport,Mongolia,Khovd,48.016667,91.65
+345,HYD,Rajiv Gandhi International Airport,India,Hyderabad,17.233702,78.430427
+346,HYN,Luqiao Airport,China,Taizhou,28.562224,121.428614
+347,HZA,Heze Mudan Airport,China,Heze,35.212222,115.731944
+348,HZG,Hanzhong Airport,China,Hanzhong,33.063443,107.008446
+349,IAO,Sayak Airport,Philippines,Del Carmin,9.858889,126.013889
+350,IBR,Ibaraki Airport,Japan,Omitami,36.181667,140.414722
+351,ICN,Incheon International Airport,Republic of Korea,Seoul,37.458764,126.441961
+352,IDR,Devi Ahilyabai Holkar,India,Indore,22.72715,75.808227
+353,IFN,Esfahan Shahid Beheshti Intl,Iran,Isfahan,32.745686,51.876381
+354,IHR,Iranshahr Airport,Iran,Iranshahr,27.236099,60.720001
+355,IIL,Ilam Airport,Iran,Ilaam,33.586367,46.399236
+356,IKA,Imam Khomeini,Iran,Tehran,35.408632,51.1548
+357,IKI,Iki Airport,Japan,Iki,33.745556,129.788333
+358,IKU,Issyk-Kul International Airport,Kyrgyzstan,Tamchy,42.588056,76.713056
+359,ILO,Iloilo International Airport,Philippines,Iloilo,10.833034,122.493366
+360,IMF,Imphal,India,Imphal,24.76457,93.897063
+361,INC,Yinchuan Hedong International Airport,China,Yinchuan,38.323031,106.388059
+362,IPH,Sultan Azlan Shah,Malaysia,Ipoh,4.566944,101.095833
+363,IQM,Qiemo Airport,China,Qiemo,38.144572,85.531552
+364,IQN,Qingyang Airport,China,Qingyang,35.8001,107.6044
+365,ISB,Islamabad International Airport,Pakistan,Islamabad,33.548333,72.825
+366,ISE,Isparta SÃ¼leyman Demirel Airport,Turkiye,Isparta,37.866111,30.382222
+367,ISG,Ishigaki,Japan,Ishigaki,24.390349,124.245538
+368,ISK,Ozar Airport,India,Ozar,20.119548,73.913354
+369,IST,Istanbul Airport,Turkiye,Istanbul,41.260278,28.741944
+370,ISU,Sulaymaniyah International Airport,Iraq,Sulaimaniyah,35.572389,45.302424
+371,ITM,Osaka,Japan,Osaka,34.790975,135.441719
+372,IWJ,Iwami,Japan,Masuda,34.676389,131.790278
+373,IWK,Iwakuni Kintaikyo Airport,Japan,Iwakuni,34.135277,132.23555
+374,IXA,Agartala,India,Agartala,23.8926,91.244513
+375,IXB,Bagdogra,India,Bagdogra,26.68488,88.324816
+376,IXC,Chandigarh,India,Chandigarh,30.676809,76.788039
+377,IXD,Allahabad,India,Allahabad,25.440072,81.733876
+378,IXE,Mangalore,India,Mangalore,12.963543,74.890141
+379,IXG,Belgaum,India,Belgaum,15.858611,74.618333
+380,IXI,Lilabari Airport,India,Lilabari,27.288274,94.092061
+381,IXJ,Jammu,India,Jammu,32.68077,74.842824
+382,IXK,Keshod,India,Keshod,21.319444,70.270833
+383,IXL,Leh,India,Leh,34.140351,77.547465
+384,IXM,Madurai,India,Madurai,9.838571,78.089494
+385,IXR,Birsa Munda,India,Ranchi,23.318192,85.322851
+386,IXS,Silchar,India,Silchar,24.916017,92.979255
+387,IXT,Pasighat Airport,India,Pasighat,28.068259,95.335528
+388,IXU,Aurangabad,India,Aurangabad,19.866464,75.397207
+389,IXW,Jamshedpur,India,Jamshedpur,22.813056,86.168889
+390,IXY,Kandla,India,Kandla,23.111111,70.104167
+391,IXZ,Port Blair,India,Port Blair,11.650083,92.732267
+392,IZO,Izumo,Japan,Izumo,35.41485,132.885751
+393,JAA,Jalalabad,Afghanistan,Jalalabad,34.401257,70.496824
+394,JAF,Kankesanturai,Sri Lanka,Jaffna,9.791667,80.075
+395,JAI,Jaipur,India,Jaipur,26.822004,75.800995
+396,JDH,Jodhpur,India,Jodhpur,26.263948,73.050552
+397,JDZ,Jingdezhen Airport,China,Jingdezhen,29.335489,117.17879
+398,JED,King Abdulaziz International Airport,Saudi Arabia,Jeddah,21.670232,39.150579
+399,JGA,Jamnagar,India,Jamnagar,22.463333,70.011944
+400,JGB,Jagdalpur Airport,India,Jagdalpur,19.066667,82.033333
+401,JGD,Jiagedaqi Airport,China,Jiagedaqi District,50.370556,124.11667
+402,JGN,Jiayuguan Airport,China,Jiayuguan,39.856988,98.341401
+403,JGS,Jinggangshan Airport,China,Ji'An,26.856899,114.737
+404,JHB,Sultan Ismail,Malaysia,Johor Bharu,1.63668,103.667959
+405,JHG,Xishuangbanna Gasa International Airport,China,Jinghong,21.973422,100.766454
+406,JIC,Jinchuan Airport,China,Jinchang,38.541943,102.34861
+407,JIO,Jos Orno Imsula Airport,Indonesia,Tiakur,-8.140276,127.908115
+408,JIQ,Qianjiang Wulingshan Airport,China,Qianjiang,29.517558,108.829189
+409,JIU,Jiujiang Lushan Airport,China,Jiujiang,29.7,115.966667
+410,JJN,Quanzhou Airport,China,Jinjiang,24.802809,118.587293
+411,JKR,Janakpur,Nepal,Janakpur,26.708333,85.923889
+412,JLG,Jalgaon Airport,India,Jalgaon,20.9619444,75.6266667
+413,JLR,Jabalpur,India,Jabalpur,23.17778,80.05194
+414,JMJ,Jingmai Airport,China,Lancang,22.417494,99.784156
+415,JMU,Jiamusi Airport,China,Jiamusi,46.845396,130.455408
+416,JNG,Jining Da'an Airport,China,Jining,35.646944,116.742222
+417,JNZ,Jinzhou Airport,China,Jinzhou,41.116667,121.016667
+418,JOG,Adi Sutjipto,Indonesia,Yogyakarta,-7.785572,110.43706
+419,JRG,Veer Surendra Sai Airport,India,Jharsuguda,21.912951,84.050091
+420,JRH,Jorhat,India,Jorhat,26.734483,94.184902
+421,JSA,Jaisalmer,India,Jaisalmer,26.891826,70.866864
+422,JSJ,Jiansanjiang Airport,China,Jiansanjiang,47.108056,132.656389
+423,JSR,Jessore,Bangladesh,Jessore,23.17696,89.160648
+424,JUH,Chizhou Jiuhuashan Airport,China,Chizhou,30.766115,117.735677
+425,JUZ,Quzhou Airport,China,"Quzhou, Zhejiang Province",28.966667,118.833333
+426,JWN,Zanjan Airport,Iran,Zanjan,36.774417,48.369855
+427,JXA,Jixi Airport,China,Jixi,45.306082,130.996745
+428,JYR,Jiroft Airport,Iran,Jiroft,28.7269,57.6703
+429,JZH,Jiuzhai Huanglong Airport,China,Song Pan,32.856667,103.683056
+430,KAC,Kameshli,Syrian Arab Republic,Kameshli,37.031741,41.202684
+431,KAW,Kawthoung Airport,Myanmar,Kawthaung,10.05,98.516667
+432,KAZ,Kau Airport,Indonesia,Kau,1.166667,127.866667
+433,KBL,Kabul International,Afghanistan,Kabul,34.560692,69.211521
+434,KBR,Sultan Ismail Petra,Malaysia,Kota Bharu,6.17057,102.290915
+435,KBU,Gusti Syamsir Alam Airport,Indonesia,Kotabaru,-3.295796,116.165701
+436,KBV,Krabi,Thailand,Krabi,8.097281,98.980619
+437,KCA,Kuqa Airport,China,Kuqa,41.71806,82.98694
+438,KCH,Kuching International,Malaysia,Kuching,1.484167,110.340833
+439,KCM,Kahramanmaras,Turkiye,Kahramanmaras,37.534444,36.950556
+440,KCZ,Kochi,Japan,Kochi,33.547689,133.674852
+441,KDH,Kandahar,Afghanistan,Kandahar,31.506944,65.8475
+442,KDI,Wolter Monginsidi,Indonesia,Kendari,-4.081461,122.418851
+443,KDU,Skardu Airport,Pakistan,Skardu,35.333008,75.538618
+444,KEA,Kerki International Airport,Turkmenistan,Kerki,37.822201,65.135306
+445,KEI,Kepi Airport,Indonesia,Kepi,-6.566667,139.333333
+446,KEP,Nepalganj Airport,Nepal,Nepalganj,28.1036,81.667
+447,KER,Kerman,Iran,Kerman,30.258778,56.961921
+448,KET,Kengtung,Myanmar,Keng Tung,21.3,99.616667
+449,KGF,Sary-Arka,Kazakhstan,Karaganda,49.675257,73.328364
+450,KGT,Kangding Airport,China,Kangding,30.13176,101.747534
+451,KHD,Khorramabad Airport,Iran,Khorramabad,33.438611,48.280833
+452,KHG,Kashi,China,Kashi,39.53689,76.010387
+453,KHH,Kaohsiung International,Taiwan,Kaohsiung,22.5725,120.345278
+454,KHI,Jinnah International,Pakistan,Karachi,24.899986,67.16828
+455,KHN,Nanchang Airport,China,Nanchang,28.859902,115.907845
+456,KHS,Khasab,Oman,Khasab,26.163939,56.23506
+457,KHT,FOB Salerno,Afghanistan,Khost,33.336574,69.960068
+458,KHY,Khoy Airport,Iran,Khoy,38.421558,44.97413
+459,KIH,Kish International Airport,Iran,Kish Island,26.532277,53.972085
+460,KIJ,Niigata Airport,Japan,Niigata,37.951993,139.11325
+461,KIK,Kirkuk AB,Iraq,Kirkuk,35.513314,44.283615
+462,KIX,Kansai International Airport,Japan,Osaka,34.43533,135.243977
+463,KJB,Kurnool Airport,India,Kurnool,15.714722,78.178056
+464,KJH,Kaili Huangping Airport,China,Kaili,26.97194,107.9875
+465,KJI,Kanas Airport,China,Buerjin,48.22167,86.99611
+466,KJT,Kertajati International Airport,Indonesia,Majalengka,-6.649717,108.166296
+467,KKC,Khon Kaen,Thailand,Khon Kaen,16.464671,102.787494
+468,KKJ,Kitakyushu,Japan,Kitakyushu,33.846156,131.034936
+469,KKX,Kikaiga Shima Airport,Japan,Kikaiga Shima,28.321389,129.928056
+470,KLH,Kolhapur,India,Kolhapur,16.666667,74.333333
+471,KLO,Kalibo,Philippines,Kalibo,11.687152,122.381832
+472,KMG,Kunming Changshui International Airport,China,Kunming,25.101944,102.929167
+473,KMI,Miyazaki Airport,Japan,Miyazaki,31.872497,131.441466
+474,KMJ,Kumamoto Airport,Japan,Kumamoto,32.834132,130.85799
+475,KMQ,Komatsu Airport,Japan,Komatsu,36.402369,136.413428
+476,KMV,Kalay Airport,Myanmar,Kalemyo,23.183333,94.05
+477,KNG,Kaimana,Indonesia,Kaimana,-3.65,133.75
+478,KNH,Shang Yi,Taiwan,Kinmen,24.435001,118.368581
+479,KNO,Knokke,Indonesia,Kuala Namu,3.635369,98.879016
+480,KNU,Kanpur,India,Kanpur,26.404278,80.40989
+481,KOE,El Tari,Indonesia,Kupang,-10.168536,123.667254
+482,KOJ,Kagoshima Airport,Japan,Kagoshima,31.801224,130.715616
+483,KOP,Nakhon Phanom,Thailand,Nakhon Phanom,17.4,104.75
+484,KOS,Sihanoukville,Cambodia,Sihanoukville,10.580739,103.639079
+485,KOV,Kokshetau Airport,Kazakhstan,Kokshetau,53.333268,69.591593
+486,KOW,Ganzhou Airport,China,Ganzhou,25.849628,114.777786
+487,KPO,Pohang,Republic of Korea,Pohang,35.983713,129.433743
+488,KQH,Ajmer Airport,India,Kishangarh,26.591219,74.813277
+489,KQT,Qurghonteppa International Airport,Tajikistan,Kurgon-Tyube,37.865622,68.865131
+490,KRL,Korla Airport,China,Korla,41.616399,86.143123
+491,KRW,Turkmenbashi Airport,Turkmenistan,Turkmanbashi,40.056157,53.012671
+492,KRY,Karamay Airport,China,Karamay,45.616667,84.883333
+493,KSH,Shahid Ashrafi Esfahani,Iran,Kermanshah,34.355916,47.145128
+494,KSN,Kostanay Airport,Kazakhstan,Kostanay,53.206083,63.550049
+495,KSQ,Karshi Airport,Uzbekistan,Karshi,38.8111,65.7739
+496,KSY,Kars Airport,Turkiye,Kars,40.551667,43.085833
+497,KTD,Kitadaito,Japan,Kitadaito,25.944371,131.325167
+498,KTG,Rahadi Usman,Indonesia,Ketapang,-1.833333,109.983333
+499,KTM,Tribhuvan International,Nepal,Kathmandu,27.699906,85.35657
+500,KUA,Kuantan,Malaysia,Kuantan,3.780765,103.215182
+502,KUH,Kushiro,Japan,Kushiro,43.045651,144.196819
+503,KUL,Kuala Lumpur International Airport,Malaysia,Kuala Lumpur,2.744344,101.717259
+504,KUM,Yakushima Airport,Japan,Yakushima,30.385556,130.659167
+505,KUT,Kutaisi,Georgia,Kutaisi,42.176389,42.4825
+506,KUU,Kullu Manali,India,Kulu,31.983333,77.1
+507,KUV,Gunsan Airport,Republic of Korea,Gunsan,35.903801,126.615997
+508,KVD,Gyandzha,Azerbaijan,Ganja International,40.733333,46.316667
+509,KWE,Guiyang Longdongbao International Airport,China,Guiyang,26.544217,106.79598
+510,KWI,Kuwait International,Kuwait,Kuwait,29.240116,47.971251
+511,KWJ,Gwangju,Republic of Korea,Gwangju,35.140176,126.810208
+512,KWL,Guilin Liangjiang International Airport,China,Guilin,25.217585,110.046839
+513,KXB,Sangia Nibandera Airport,Indonesia,Kolaka,-4.341744,121.523888
+514,KYA,Konya,Turkiye,Konya,37.979167,32.562222
+515,KYP,Kyaukpyu,Myanmar,Kyaukpyu,19.429139,93.535166
+516,KZO,Kzyl-Orda Airport,Kazakhstan,Kzyl-Orda,44.70727,65.592248
+518,LAH,Oesman Sadik Airport,Indonesia,Labuha,-0.636548,127.500265
+519,LAO,Laoag Intl,Philippines,Laoag,18.182408,120.534123
+520,LBD,Khudzhand Airport,Tajikistan,Khujand,40.219887,69.6965
+521,LBJ,Labuan Bajo,Indonesia,Labuan Bajo,-8.486215,119.889281
+522,LBP,Long Banga Airport,Malaysia,Long Banga,3.2,115.4
+523,LBU,Labuan,Malaysia,Labuan,5.294355,115.249164
+524,LCA,Larnaca Airport,Cyprus,Larnaca,34.870871,33.607975
+525,LCX,Longyan Airport,China,Longyan,25.675556,116.745556
+526,LDS,Yichun Shi Airport,China,Yichun,47.751828,129.017988
+527,LDU,Lahad Datu,Malaysia,Lahad Datu,5.035278,118.326111
+528,LFQ,Linfen Qiaoli Airport,China,Qiaoli,36.043525,111.494936
+529,LGK,Langkawi,Malaysia,Langkawi,6.342174,99.731403
+530,LGL,Long Lellang Airport,Malaysia,Long Lellang,3.42139,115.15361
+531,LHE,Allama Iqbal International,Pakistan,Lahore,31.520833,74.402778
+533,LHW,Lanzhou Zhongchuan International Airport,China,Lanzhou,36.509497,103.61756
+534,LJG,Lijiang Sanyi Airport,China,Lijiang,26.679975,100.245768
+535,LKA,Larantuka,Indonesia,Larantuka,-8.274301,123.001315
+536,LKH,Long Akah Airport,Malaysia,Long Akah,3.312934,114.785657
+537,LKO,Lucknow,India,Lucknow,26.764257,80.884186
+538,LLB,Libo County Libo City Airport,China,Libo City,25.452476,107.961916
+539,LLF,Lingling Airport,China,Yongzhou,26.345556,111.612222
+540,LLJ,Silampari Airport,Indonesia,Lubuk Linggau,-3.284167,102.913333
+541,LLK,Lankaran International Airport,Azerbaijan,Lankaran,38.74203,48.824093
+543,LLO,Lagaligo Airport,Indonesia,Palopo,-3.084722,120.245278
+544,LLV,Luliang Airport,China,Luliang,37.683333,111.142778
+545,LMN,Limbang,Malaysia,Limbang,4.666667,115.0
+546,LMU,Letung Airport,Indonesia,Jemaja Island,2.963056,105.754444
+547,LNJ,Lincang Airport,China,Lincang,23.744107,100.026244
+548,LNL,Cheng Xian Airport,China,Longan,33.7898,105.788395
+549,LNU,Kolonel RA Bessing Airport,Indonesia,Malinau,3.576389,116.618333
+550,LOE,Loei Airport,Thailand,Loei,17.437847,101.72187
+551,LOP,Lombok International Airport,Indonesia,Praya,-8.761611,116.273838
+552,LPF,Liupanshui Yuezhao Airport,China,Yuezhao,26.605949,104.971351
+553,LPQ,Luang Prabang,Lao People's Democratic Republic,Luang Prabang,19.897055,102.163709
+554,LPT,Lampang,Thailand,Lampang,18.274167,99.507222
+555,LRR,Lar Airport,Iran,Lar,27.669689,54.38276
+556,LSH,Lashio,Myanmar,Lashio,22.966667,97.75
+557,LSW,Malikus Saleh Airport,Indonesia,Lhoksumawe,5.226667,96.950278
+558,LTI,Altai Airport,Mongolia,Altai,46.376184,96.221008
+559,LTK,Bassel Al Assad International,Syrian Arab Republic,Latakia,35.407353,35.943994
+560,LUH,Ludhiana Airport,India,Ludhiana,30.9,75.85
+561,LUM,Dehong Mangshi Airport,China,Mangshi,24.405279,98.531897
+562,LUV,Langguri,Indonesia,Langgur,-5.666667,132.716667
+563,LUW,Bubung,Indonesia,Luwuk,-1.039336,122.771611
+564,LWE,Wunopito Airport,Indonesia,Lewoleba,-8.36278,123.43778
+565,LWY,Lawas Airport,Malaysia,Lawas,4.846565,115.406995
+566,LXA,Lhasa Airport,China,Lhasa/Lasa,29.2978,90.911903
+567,LXG,Luang Namtha Airport,Lao People's Democratic Republic,Luang Namtha,21.05,101.466667
+568,LYA,Luoyang Airport,China,Luoyang,34.736361,112.385406
+569,LYG,Lianyungang Airport,China,Lianyungang,34.565938,118.876986
+570,LYI,Linyi Airport,China,Linyi,35.047477,118.407068
+571,LYP,Faisalabad International,Pakistan,Faisalabad,31.363042,72.987572
+572,LZH,Bailian Airport,China,Liuzhou,24.206155,109.398427
+573,LZN,Matsu Nangan Airport,Taiwan,Nangan,26.159444,119.958333
+574,LZO,Yunlong Airport,China,Luzhou,29.030556,105.46889
+575,LZY,Nyingchi Airport,China,Nyingchi,29.309076,94.335883
+576,MAA,Chennai International,India,Chennai,12.982267,80.163782
+577,MAQ,Mae Sot Airport,Thailand,Mae Sot,16.701422,98.543474
+578,MBE,Monbetsu,Japan,Monbetsu,44.266667,143.383333
+579,MBT,Masbate Airport,Philippines,Masbate,12.36944,123.62917
+580,MCT,Seeb International,Oman,Muscat,23.600739,58.284042
+581,MDC,Sam Ratulangi,Indonesia,Manado,1.543533,124.922029
+582,MDG,Mudanjiang,China,Mudanjiang,44.534943,129.58384
+583,MDL,Mandalay International,Myanmar,Mandalay,21.702169,95.977893
+584,MED,Madinah,Saudi Arabia,Madinah,24.544369,39.698966
+585,MEQ,Seunagan Airport,Indonesia,Meulaboh,4.15,96.116667
+586,MFK,Mafikeng North,Taiwan,Matsu,26.224018,120.000507
+587,MFM,Macau International,Macau SAR,Macau,22.156587,113.57285
+588,MGZ,Myeik,Myanmar,Myeik,12.45,98.616667
+589,MHD,Mashhad,Iran,Mashad,36.235207,59.640996
+590,MIG,Mianyang Airport,China,Mian Yang,31.427633,104.747139
+591,MJU,Tampa Padang Airport,Indonesia,Mamuju,-2.587331,119.029065
+592,MKM,Mukah Airport,Malaysia,Mukah,2.906944,112.079722
+593,MKQ,Mopah,Indonesia,Merauke,-8.519837,140.41894
+594,MKW,Rendani,Indonesia,Manokwari,-0.893056,134.052778
+595,MKZ,Malacca,Malaysia,Malacca,2.262959,102.252464
+596,MLE,Male International Airport,Maldives,Male,4.19183,73.529108
+597,MLG,Abdul Rachman Saleh,Indonesia,Malang,-7.926611,112.71449
+598,MLX,Erhac,Turkiye,Malatya,38.354444,38.253611
+599,MMB,Memanbetsu,Japan,Memanbetsu,43.881084,144.160012
+600,MMD,Minami Daito,Japan,Minami Daito,25.846431,131.263668
+601,MMJ,Matsumoto Airport,Japan,Matsumoto,36.166801,137.923004
+602,MMY,Miyako Jima,Japan,Miyakojima,24.779198,125.297786
+603,MNL,Ninoy Aquino International,Philippines,Manila,14.511205,121.019208
+604,MNU,Mawlamyine Airport,Myanmar,Mawlamyine,16.444747,97.660669
+605,MOF,Wai Oti,Indonesia,Maumere,-8.637726,122.238255
+606,MOH,Dibrugarh,Indonesia,Morowali,-2.201897,121.662013
+607,MPH,Godofredo P,Philippines,Caticlan,11.924497,121.954003
+608,MRX,Mahshahr Airport,Iran,Bandar Mahshahr,30.553822,49.149379
+609,MSH,Masirah,Oman,Masirah,20.669335,58.890696
+610,MSJ,Misawa Ab,Japan,Misawa,40.696315,141.386897
+611,MSR,Mus Airport,Turkiye,Mus,38.725,41.625
+612,MUR,Marudi,Malaysia,Marudi,4.183333,114.316667
+613,MUX,Multan International,Pakistan,Multan,30.199507,71.414978
+614,MWX,Muan,Republic of Korea,Gwangju,34.991406,126.382814
+615,MXV,Moron Airport,Mongolia,Moron,49.663244,100.095329
+616,MXZ,Meixian Airport,China,Mei Xian,24.266812,116.104491
+617,MYJ,Matsuyama,Japan,Matsuyama,33.829102,132.704058
+618,MYP,Mary Airport,Turkmenistan,Mary,37.664034,61.829644
+619,MYQ,Mysore Airport,India,Mysore,12.22886,76.657727
+620,MYT,Myitkyina,Myanmar,Myitkyina,25.384256,97.356922
+621,MYY,Miri Airport,Malaysia,Miri,4.324112,113.988106
+622,MZG,Makung,Taiwan,Magong,23.560451,119.6295
+623,MZH,Merzifon,Turkiye,Merzifon,40.883333,35.533333
+624,MZR,Mazar I Sharif,Afghanistan,Mazar-I-Sharif,36.709192,67.208485
+625,MZV,Mulu,Malaysia,Mulu,4.033333,114.8
+627,NAG,Nagpur,India,Nagpur,21.090037,79.05636
+628,NAJ,Nakhichevan,Azerbaijan,Nakhichevan,39.190278,45.458889
+629,NAM,Namlea Airport,Indonesia,Namlea,-3.237134,127.100235
+630,NAO,Nanchong Airport,China,Nanchong,30.8,106.066667
+631,NAV,Kapadokya,Turkiye,Nevsehir,38.633333,34.716667
+632,NAW,Narathiwat,Thailand,Narathiwat,6.516667,101.75
+633,NBS,Changbaishan Airport,China,Baishan,42.083332,127.6
+634,NBX,Nabire,Indonesia,Nabire,-3.366667,135.433333
+635,NCU,Nukus,Uzbekistan,Nukus,42.483333,59.633333
+636,NDC,Nanded Airport,India,Nanded,19.183333,77.316667
+637,NDG,Qiqihar Sanjiazi Airport,China,Qiqihar,47.316667,123.916667
+638,NEU,Sam Neua Airport,Lao People's Democratic Republic,Sam Neua,20.419033,104.067893
+639,NGB,Ningbo Lishe International Airport,China,Ningbo,29.826696,121.462002
+640,NGO,Nagoya,Japan,Nagoya,34.858333,136.805278
+641,NGQ,Gunsa,China,Shi Quan He,32.103817,80.054276
+642,NGS,Nagasaki,Japan,Nagasaki,32.914398,129.92257
+643,NJF,Al Najaf International Airport,Iraq,Al-Najaf,31.989792,44.404576
+644,NKG,Lu Kou Airport,China,Nanjing,31.735737,118.86652
+645,NKM,Nagoya Airport,Japan,Nagoya,35.253892,136.919572
+646,NLH,Ninglang Luguhu Airport,China,Ninglang,27.542558,100.759323
+647,NLT,Nalati Airport,China,Xinyuan,43.43222,83.382225
+648,NMA,Namangan Airport,Uzbekistan,Namangan,40.983333,71.6
+649,NNG,Nanning Wuxu International Airport,China,Nanning,22.61321,108.167501
+650,NNT,Nan,Thailand,Nan,18.8,100.783333
+651,NNY,Nanyang Airport,China,Nanyang,32.9837,112.613056
+652,NQZ,Nursultan Nazarbayev,Kazakhstan,Astana,51.027811,71.461199
+653,NRE,Namrole Airport,Indonesia,Namrole,-3.854102,126.703082
+654,NRT,Narita International Airport,Japan,Tokyo,35.773213,140.387443
+655,NSH,Now Shahr Airport,Iran,Now Shahr,36.666667,51.5
+656,NST,Cha Ian,Thailand,Nakhon Si Thammarat,8.467457,99.957527
+657,NTG,Nantong Airport,China,Nantong,32.072921,120.975605
+658,NTQ,Noto,Japan,Wajima,37.294677,136.956803
+659,NTX,Natuna Ranai Airport,Indonesia,Natuna Ranai,3.95,108.383333
+660,NUM,Neom Bay Airport,Saudi Arabia,Neom Bay,27.927838,35.291935
+661,NVI,Navoi Airport,Uzbekistan,Navoi,40.115,65.159167
+662,NYT,Nay Pyi Taw Airport,Myanmar,Naypyidaw,19.6225,96.201385
+663,NYU,Nyaung,Myanmar,Nyaung-u,21.175342,94.928321
+664,NYW,Monywa Airport,Myanmar,Monywa,22.22151,95.093978
+665,NZH,Manzhouli,China,Manzhouli,49.570592,117.331627
+666,NZL,Zhalantun Chengjisihan Airport,China,Chengjisihan,47.719903,122.832004
+667,OBO,Obihiro,Japan,Obihiro,42.732003,143.212437
+668,ODN,Long Seridan Airport,Malaysia,Long Seridan,4.033333,115.066667
+669,ODY,Oudomxay,Lao People's Democratic Republic,Muang Xay,20.682699,101.994003
+670,OGN,Yonaguni Jima,Japan,Yonaguni,24.465925,122.979684
+671,OHE,Mohe Airport,China,Mohe,52.921132,122.420595
+672,OHS,Sohar Airport,Oman,Sohar,24.395722,56.617474
+673,OIR,Okushiri,Japan,Okushiri,42.071984,139.43488
+674,OIT,Oita,Japan,Oita,33.477237,131.732362
+675,OKA,Okinawa,Japan,Okinawa,26.204954,127.645842
+676,OKD,Sapporo,Japan,Sapporo,43.110374,141.381998
+677,OKE,Okino Erabu Airport,Japan,Wadomari,27.431667,128.705556
+678,OKI,Oki Island Airport,Japan,Oki Island,36.166667,133.316667
+679,OKJ,Okayama,Japan,Okayama,34.760218,133.85277
+680,OKL,Oksibil,Indonesia,Oksibil,-4.908143,140.630456
+681,OMH,Urmieh,Iran,Nazluy-ye Jonubi,37.664954,45.065648
+682,ONJ,Odate Noshiro Airport,Japan,Odate Noshiro,40.196414,140.373826
+683,ONQ,Zonguldak,Turkiye,Zonguldak,41.506141,32.089599
+684,OSS,Osh,Kyrgyzstan,Osh,40.60769,72.786482
+685,OTI,Pitu Airport,Indonesia,Morotai Island,2.04599,128.324997
+686,OZC,Ozamis,Philippines,Ozamiz,8.181967,123.845414
+687,PAB,Bilaspur,India,Bilaspur,31.316667,76.833333
+688,PAG,Pagadian Airport,Philippines,Pagadian,7.826667,123.4575
+689,PAT,Patna,India,Patna,25.594891,85.090669
+690,PBH,Paro,Bhutan,Paro,27.433333,89.416667
+691,PBU,Putao,Myanmar,Putao,27.333333,97.416667
+692,PCQ,Boun Neua Airport,Lao People's Democratic Republic,Phongsaly,21.645601,101.900337
+693,PDG,Tabing,Indonesia,Padang,-0.786667,100.280556
+694,PEK,Beijing Capital International Airport,China,Beijing,40.078538,116.587095
+695,PEN,Penang International,Malaysia,Penang,5.292961,100.265173
+696,PEW,Peshawar,Pakistan,Peshawar,33.989083,71.519252
+697,PFO,Paphos International Airport,Cyprus,Paphos,34.711552,32.489104
+698,PFQ,Parsabade Moghan Airport,Iran,Parsabad,39.606892,47.877521
+699,PGH,Pantnagar Airport,India,Pantnagar,29.031944,79.473611
+700,PGK,Pangkalpinang,Indonesia,Pangkal Pinang,-2.164017,106.137071
+701,PGU,Ala'Marvdasht Airport,Iran,Ala'Marvdasht,27.383959,52.735514
+702,PHS,Phitsanulok,Thailand,Phitsanulok,16.771307,100.281196
+703,PKN,Pangkalanboun,Indonesia,Pangkalanbun,-2.703815,111.669942
+704,PKR,Pokhara,Nepal,Pokhara,28.198646,83.977761
+705,PKU,Sultan Syarif Kasim Ii,Indonesia,Pekanbaru,0.464563,101.446883
+706,PKX,Daxing International Airport,China,Beijing,39.508611,116.410833
+707,PKY,Tjilik Riwut,Indonesia,Palangkaraya,-2.223958,113.945782
+708,PKZ,Pakse,Lao People's Democratic Republic,Pakse,15.136257,105.781295
+709,PLM,Sultan Mahmud Badaruddin Ii,Indonesia,Palembang,-2.900146,104.698607
+710,PLW,Mutiara,Indonesia,Palu,-0.918617,119.909729
+711,PLX,Semipalatinsk Airport,Kazakhstan,Semipalatinsk,50.351741,80.233789
+712,PNH,Phnom Penh,Cambodia,Phnom Penh,11.552193,104.846174
+713,PNK,Supadio,Indonesia,Pontianak,-0.14735,109.405328
+714,PNQ,Pune,India,Pune,18.581389,73.920556
+715,PPK,Petropavlovsk Airport,Kazakhstan,Petropavlovsk,54.775735,69.187045
+716,PPS,Puerto Princesa,Philippines,Puerto Princesa,9.740198,118.756739
+717,PQC,Duong Dong Airport,Viet Nam,Phu Quoc,10.169789,103.993104
+718,PSU,Putussibau,Indonesia,Putussibau,0.835433,112.937507
+719,PUM,Pomala Airport,Indonesia,Pomala,-4.180931,121.615124
+720,PUS,Gimhae International,Republic of Korea,Busan,35.179319,128.948728
+721,PVG,Shanghai Pudong International Airport,China,Shanghai,31.143333,121.805278
+722,PWQ,Pavlodar Airport,Kazakhstan,Pavlodar,52.195808,77.073959
+723,PXU,Pleiku Airport,Viet Nam,Pleiku,14.006346,108.00896
+724,PYB,Jeypore Airport,India,Jeypore,18.833333,82.633333
+725,PYG,Pakyong Airport,India,Pakyong,27.2278,88.586944
+726,PZI,Panzhihua,China,Pan Zhi Hua,26.538734,101.793861
+727,QSZ,Shache Airport,China,Shache,38.245562,77.056094
+728,RAE,Arar,Saudi Arabia,Arar,30.903029,41.137115
+729,RAH,Rafha,Saudi Arabia,Rafha,29.623463,43.488786
+730,RAS,Rasht,Iran,Rasht,37.321814,49.619586
+731,RDP,Kazi Nazrul Islam Airport,India,Andal,23.621389,87.243333
+732,RGN,Yangon International,Myanmar,Yangon,16.900069,96.134152
+733,RIS,Rishiri,Japan,Rishiri,45.183333,141.25
+734,RIY,Riyan,Republic of Yemen,Riyan,14.666999,49.373684
+735,RIZ,Rizhao Shanzihe Airport,China,Rizhao,35.400771,119.317278
+736,RJA,Rajahmundry,India,Rajahmundry,17.109639,81.820807
+737,RJB,Rajbiraj Airport,Nepal,Rajbiraj,26.509793,86.734684
+738,RJH,Rajshahi,Bangladesh,Rajshahi,24.433333,88.616667
+739,RKT,Ras Al Khaimah International,United Arab Emirates,Ras al-Khaimah,25.616667,55.941224
+740,RKZ,Shigatse Peace Airport,China,Shigatse,29.351944,89.31
+741,RLK,Bayannur Tianjitai Airport,China,Bayannur,40.926388,107.73889
+742,RMQ,Taichung International Airport,Taiwan,Shalu,24.254755,120.601184
+743,RNJ,Yoron,Japan,Yoronjima,27.042213,128.406343
+744,ROI,Roi Et,Thailand,Roi Et,16.116736,103.773842
+745,RPR,Raipur,India,Raipur,21.184561,81.739751
+746,RQA,Ruoqiang,China,Ruogiang,38.974722,88.008333
+747,RRK,Rourkela,India,Rourkela,22.256667,84.814722
+748,RSU,Yeosu,Republic of Korea,Yeosu,34.8419,127.612673
+749,RTG,Satar Tacik,Indonesia,Ruteng,-8.596921,120.478345
+750,RUH,King Khaled International,Saudi Arabia,Riyadh,24.959289,46.702876
+751,RXS,Roxas Airport,Philippines,Roxas City,11.60066,122.748817
+752,RZR,Ramsar,Iran,Ramsar,36.904624,50.682442
+753,SAG,Shirdi Airport,India,Shirdi,19.688611,74.378889
+754,SAH,Sanaa Intl,Republic of Yemen,Sana'a,15.476298,44.219702
+755,SAW,Istanbul Sabiha Gökçen International Airport,Turkiye,Istanbul,40.904676,29.309188
+756,SBW,Sibu,Malaysia,Sibu,2.254997,111.986575
+757,SCO,Aktau,Kazakhstan,Aktau,43.857447,51.089073
+758,SCT,Socotra Airport,Republic of Yemen,Socotra,12.627546,53.909245
+759,SDG,Sanandaj,Iran,Sanandaj,35.251473,47.013766
+760,SDJ,Sendai Airport,Japan,Sendai,38.135556,140.923889
+761,SDK,Sandakan,Malaysia,Sandakan,5.896877,118.061833
+762,SDW,Sindhudurg Airport,India,Malvan,16.0025,73.53111
+763,SGN,Tansonnhat International,Viet Nam,Ho Chi Minh City,10.813045,106.662477
+764,SHA,Hongqiao International,China,Shanghai,31.19779,121.333473
+765,SHB,Nakashibetsu Airport,Japan,Nakashibetsu,43.572196,144.956129
+766,SHE,Shenyang Taoxian International Airport,China,Shenyang,41.634992,123.485731
+767,SHF,Shihezi Huayuan Airport,China,Shihezi,44.244171,85.894731
+768,SHI,Shimojishima Airport,Japan,Miyakojima,24.816667,125.15
+769,SHJ,Sharjah International,United Arab Emirates,Sharjah,25.320873,55.52029
+770,SHL,Shillong Airport,India,Umroi,25.704872,91.975983
+771,SHM,Shirahama Airport,Japan,Shirahama,33.661389,135.358056
+772,SHS,Shashi Airport,China,Shashi,30.321995,112.2781
+773,SHW,Sharurah,Saudi Arabia,Sharurah,17.469459,47.111983
+774,SIF,Simara,Nepal,Simara,27.163563,84.979195
+775,SIN,Singapore Changi Airport,Singapore,Singapore,1.361173,103.990201
+776,SJI,Antique,Philippines,San Jose,12.360818,121.045574
+777,SJW,Shijiazhuang Daguocun International Airport,China,Shijiazhuang,38.281868,114.692106
+778,SKD,Samarkand,Uzbekistan,Samarkand,39.696217,66.990854
+779,SKH,Surkhet Airport,Nepal,Surkhet,28.586104,81.635933
+780,SKT,Sialkot Airport,Pakistan,Sialkot,32.536793,74.365498
+781,SKZ,Sukkur,Pakistan,Sukkur,27.72336,68.795803
+782,SLL,Salalah,Oman,Salalah,17.045195,54.089113
+783,SLV,Shimla Airport,India,Shimla,31.0818,77.068001
+784,SMQ,H. Asan Airport,Indonesia,Sampit,-2.502806,112.979002
+785,SNO,Sakon Nakhon Airport,Thailand,Sakon Nakhon,17.195101,104.119003
+786,SOC,Solo City,Indonesia,Surakarta,-7.514458,110.749956
+787,SOQ,Jefman,Indonesia,Sorong,-0.890214,131.290591
+788,SPD,Saidpur,Bangladesh,Saidpur,25.759272,88.90897
+790,SQD,Sanqingshan Airport,China,Shangrao,28.379722,117.964167
+791,SQG,Sintang,Indonesia,Sintang,0.063215,111.472328
+792,SQJ,Sanming Shaxian Airport,China,Sanming,26.425812,117.838929
+793,SQN,Emalamo Sanana Airport,Indonesia,Sanana,-2.098013,125.965079
+794,SRG,Achmad Yani,Indonesia,Semarang,-6.979155,110.378549
+795,SRY,Dashte Naz Airport,Iran,Sary,36.635727,53.197276
+796,STV,Surat,India,Surat Gujarat,21.117658,72.745258
+797,SUB,Juanda,Indonesia,Surabaya,-7.377937,112.793782
+798,SUG,Surigao Airport,Philippines,Surigao,9.758889,125.479167
+799,SWA,Wai Sha Airport,China,Jieyang,23.54944,116.510277
+800,SWL,San Vicente Airport,Philippines,San Vicente,10.524722,119.273333
+801,SWQ,Sultan Muhammad Kaharuddin III Airport,Indonesia,Sumbawa Besar,-8.489122,117.414088
+802,SXK,Saumlaki,Indonesia,Saumlaki,-7.988421,131.304336
+803,SXR,Srinagar,India,Srinagar,34.002308,74.762631
+804,SXV,Salem Airport,India,Salem,11.783128,78.065217
+805,SYJ,Sirjan Airport,Iran,Sirjan,29.551414,55.665193
+806,SYM,Simao Airport,China,Pu'er,22.796569,100.96222
+807,SYO,Shonai,Japan,Shonai,38.809444,139.790556
+808,SYX,Phoenix International,China,Sanya,18.305276,109.40888
+809,SYZ,Shiraz Shahid Dastghaib International,Iran,Shiraz,29.54613,52.58997
+810,SZB,Sultan Abdul Aziz Shah Intl,Malaysia,Kuala Lumpur,3.130644,101.558078
+811,SZF,Samsun-Ã‡arÅŸamba Airport,Turkiye,Samsun,41.257381,36.555057
+812,SZH,Senipah Airport,China,Shuozhou,39.273056,112.691111
+813,SZX,Shenzhen Bao'an International Airport,China,Shenzhen,22.639444,113.810833
+814,TAC,Daniel Z Romualdez,Philippines,Tacloban,11.22684,125.025916
+815,TAE,Daegu Ab,Republic of Korea,Daegu,35.899254,128.637874
+816,TAG,Bohol International Airport,Philippines,Panglao,9.574353,123.770949
+817,TAK,Takamatsu Airport,Japan,Takamatsu,34.219017,134.018252
+818,TAO,Qingdao Jiaodong International Airport,China,Qingdao,36.361944,120.088333
+819,TAS,Islam Karimov Tashkent International Airport,Uzbekistan,Tashkent,41.257893,69.281204
+820,TAZ,Dasoguz Airport,Turkmenistan,Dashoguz,41.763678,59.834052
+821,TBB,Dong Tac,Viet Nam,Tuy Hoa,13.044167,109.339722
+822,TBH,Romblon Airport,Philippines,Barangay Tugdan,12.315823,122.081968
+823,TBS,Lochini,Georgia,Tbilisi,41.674063,44.958958
+824,TBZ,Tabriz International,Iran,Tabriz,38.122849,46.244274
+825,TCG,Tacheng Airport,China,Tacheng,46.670595,83.339733
+826,TCR,Tuticorin Airport,India,Tuticorin,8.716667,78.033333
+827,TCX,Tabas Airport,Iran,Tabas,33.667169,56.895559
+828,TCZ,Tengchong Tuofeng Airport,China,Tengchong,24.939379,98.482028
+829,TDK,Taldykorgan Airport,Kazakhstan,Taldykorgan,45.109287,78.441326
+830,TDX,Trat,Thailand,Trat,12.273953,102.318675
+831,TEI,Tezu Airport,India,Tezu,27.95,96.133333
+832,TEN,Tongren,China,Tongren,27.883689,109.299019
+833,TEZ,Tezpur,India,Salonibari,26.706814,92.777941
+834,TFU,Tianfu International Airport,China,Chengdu,30.314195,104.44186
+835,TGC,Tanjung Manis Airport,Malaysia,Sarikei,2.176315,111.203344
+836,TGG,Sultan Mahmud,Malaysia,Kuala Terengganu,5.379951,103.104434
+837,TGO,Tongliao Airport,China,Tongliao,43.557011,122.204604
+838,THD,Bai Thuong Airport,Viet Nam,Thanh Hoa,19.9025,105.46917
+839,THL,Tachilek Airport,Myanmar,Tachilek,20.48443,99.934535
+840,THQ,Tianshui Maijishan Airport,China,Tianshui,34.556238,105.865014
+841,THR,Mehrabad International,Iran,Tehran,35.691534,51.321868
+842,THS,Sukhothai,Thailand,Sukhothai,17.223056,99.822222
+843,TIF,Taif,Saudi Arabia,Taif,21.480364,40.552684
+844,TIM,Moses Kilangin,Indonesia,Tembagapura,-4.525666,136.887486
+845,TIR,Tirupati,India,Tirupati,13.635721,79.542929
+846,TJH,Tajima Airport,Japan,Toyooka,35.51366,134.787674
+847,TJQ,Bulutumbang Airport,Indonesia,Tanjung Pandan,-2.74572,107.754997
+848,TJS,Tanjung Selor,Indonesia,Tanjung Selor,2.836389,117.373611
+849,TJU,Kulob Airport,Tajikistan,Kulyab,37.988335,69.80666
+850,TKG,Bandar Lampung,Indonesia,Bandar Lampung,-5.242783,105.175795
+851,TKN,Tokunoshima,Japan,Tokunoshima,27.833333,128.883333
+852,TKS,Tokushima,Japan,Tokushima,34.139024,134.594826
+853,TLI,Sultan Bantilan Airport,Indonesia,Toli Toli,1.122492,120.793618
+854,TLQ,Turpan Jiaohe Airport,China,Turpan,43.019961,89.074545
+855,TLV,Ben Gurion International Airport,Israel,Tel Aviv-Yafo,32.000454,34.870741
+856,TMC,Tambolaka Airport,Indonesia,Tambolaka,-9.40972,119.244003
+857,TMH,Tanahmerah Airport,Indonesia,Tanahmerah,-6.096228,140.305916
+858,TMI,Tumling Tar Airport,Nepal,Tumling Tar,27.3,87.2
+859,TMJ,Termez Airport,Uzbekistan,Termez,37.280501,67.318954
+860,TNA,Jinan Yaoqiang International Airport,China,Jinan,36.857689,117.206881
+861,TNE,New Tanegashima Airport,Japan,Nakatane,30.604837,130.9929
+862,TNH,Tonghua Sanyuanpu Airport,China,Sanyuanpu,42.253889,125.703889
+863,TNJ,Raja Haji Fisabilillah Airport,Indonesia,Tanjung Pinang,0.922683,104.531998
+864,TNN,Tainan,Taiwan,Tainan,22.948705,120.215712
+865,TOY,Toyama,Japan,Toyama,36.642447,137.189456
+866,TPE,Taoyuan International Airport,Taiwan,Taipei,25.075512,121.23248
+867,TRA,Taramajma,Japan,Taramajima,24.653795,124.676793
+868,TRK,Tarakan,Indonesia,Tarakan,3.326377,117.568603
+869,TRV,Thiruvananthapuram International,India,Thiruvananthapuram,8.476126,76.91907
+870,TRZ,Tiruchirappalli,India,Tiruchirappalli,10.762168,78.707241
+871,TSA,Sungshan,Taiwan,Taipei,25.062789,121.551924
+872,TSJ,Tsushima,Japan,Tsushima,34.286151,129.326368
+873,TSN,Tianjin Binhai International Airport,China,Tianjin,39.128273,117.355906
+874,TST,Trang,Thailand,Trang,7.5,99.616667
+875,TTE,Babullah,Indonesia,Ternate,0.832233,127.379132
+876,TTJ,Tottori,Japan,Tottori,35.525915,134.167562
+877,TTT,Taitung,Taiwan,Taitung City,22.75683,121.106027
+878,TUG,Tuguegarao Airport,Philippines,Tuguegarao,17.641111,121.731667
+879,TUI,Turaif,Saudi Arabia,Turaif,31.68873,38.733831
+880,TUK,Turbat International Airport,Pakistan,Turbat,25.983333,63.066667
+881,TUU,Tabuk,Saudi Arabia,Tabuk,28.373017,36.598686
+882,TVS,Tangshan Sannuhe Airport,China,Tangshan,39.718784,117.997913
+883,TVY,Dawei Airport,Myanmar,Dawe,14.1,98.2
+884,TWC,Tangwangcheng Airport,China,Tumushuke,39.888331,79.234455
+885,TWT,Sanga Sanga Airport,Philippines,Bongao,5.044251,119.740982
+886,TWU,Tawau,Malaysia,Tawau,4.313084,118.121497
+887,TXN,Tunxi International Airport,China,Tunxi,29.731388,118.254197
+888,TYN,Taiyuan Wusu International Airport,China,Taiyuan,37.754996,112.62585
+889,TZX,Trabzon,Turkiye,Trabzon,40.994191,39.781681
+890,UBJ,Yamaguchi Ube,Japan,Ube,33.933397,131.274894
+891,UBN,Chinggis Khan International Airport,Mongolia,Ulaanbaatar,47.646944,106.819722
+892,UBP,Ubon Ratchathani,Thailand,Ubon Ratchathani,15.246491,104.870683
+893,UCB,Ulanqab Airport,China,Ulanqab,41.127387,113.109993
+894,UDR,Udaipur,India,Udaipur,24.61919,73.891269
+895,UEO,Kumejima,Japan,Kume-jima,26.365278,126.719444
+896,UET,Quetta,Pakistan,Quetta,30.249266,66.949036
+897,UGC,Urgench Airport,Uzbekistan,Urgench,41.584834,60.633029
+898,UIH,Qui Nhon,Viet Nam,Qui Nhon,13.955,109.042222
+899,UKB,Kobe,Japan,Kobe,34.6373,135.228388
+900,UKK,Ust-Kamenogorsk Airport,Kazakhstan,Ust-Kamenogorsk,50.03657,82.493495
+901,ULG,Olgii Airport,Mongolia,Ulgit,48.992091,89.920228
+902,ULH,Prince Abdul Majeed bin Abdulaziz Airport,Saudi Arabia,Al Ula,26.480861,38.116654
+903,ULO,Ulaangom Airport,Mongolia,Ulaangom,49.973383,92.080288
+904,ULZ,Donoi Airport,Mongolia,Uliastai,47.709633,96.525498
+905,UNN,Ranong,Thailand,Ranong,9.852778,98.629167
+906,UPG,Ujung Pandang,Indonesia,Ujung Pandang,-5.077019,119.547738
+907,URA,Uralsk,Kazakhstan,Uralsk,51.153708,51.538562
+908,URC,Ürümqi Diwopu International Airport,China,Urumqi,43.90126,87.475148
+909,URT,Surat Thani,Thailand,Surat Thani,9.133865,99.143198
+910,URY,Gurayat,Saudi Arabia,Gurayat,31.409623,37.275006
+911,USM,Samui,Thailand,Koh Samui,9.55117,100.062878
+912,USN,Ulsan,Republic of Korea,Ulsan,35.593671,129.355976
+913,USU,Busuanga,Philippines,Busuanga,12.1,120.166667
+914,UTH,Udon Thani,Thailand,Udon Thani,17.386392,102.788
+915,UTP,U Taphao International,Thailand,Utapao,12.683333,101.016667
+916,UYN,Yulin,China,Yulin,38.361466,109.596181
+917,VAM,Maamigili Island Airport,Maldives,Maamigili Island,3.470556,72.835833
+918,VAN,Van,Turkiye,Van,38.469878,43.337264
+919,VAS,Sivas,Turkiye,Sivas,39.813889,36.904167
+920,VBA,Ann Airport,Myanmar,Ann,19.777449,94.028292
+921,VBP,Bokpyin Airport,Myanmar,Bokpyin,11.266667,98.766667
+922,VCA,TrÃ  NÃ³c Airport,Viet Nam,Can Tho,10.047222,105.766389
+923,VCL,Chu Lai,Viet Nam,Tamky-Chulai Airport,15.413901,108.70309
+924,VCS,Co Ong Airport,Viet Nam,Con Dao,8.73194,106.6325
+925,VDH,Dong Hoi,Viet Nam,Dong Hoi,17.515,106.590556
+926,VDO,Van Don International Airport,Viet Nam,Quang Ninh,21.113775,107.419444
+927,VDY,Jindal Airport,India,Vijaynagar,15.174967,76.634947
+928,VGA,Vijayawada,India,Vijayawada,16.529444,80.797222
+929,VII,Vinh Airport,Viet Nam,Vinh City,18.728766,105.669709
+930,VKG,Rach Gia Airport,Viet Nam,Rach Gia,9.95803,105.13238
+931,VNS,Varanasi,India,Varanasi,25.449697,82.853732
+932,VRC,Virac Airport,Philippines,Virac,13.579579,124.211873
+933,VSV,Shravasti Airport,India,Shravasti,27.503056,82.026944
+934,VTE,Wattay International,Lao People's Democratic Republic,Vientiane,17.975432,102.567721
+935,VTZ,Vishakhapatnam,India,Vishakhapatnam,17.723596,83.22768
+936,WAE,Wadi Ad Dawasir,Saudi Arabia,Wadi Ad Dawasir,20.498443,45.204447
+938,WDS,Shiyan Wudangshan Airport,China,Shiyan,32.589946,110.906355
+939,WEF,Weifang Airport,China,Weifang,36.641074,119.113469
+940,WEH,Weihai Airport,China,Weihai,37.188142,122.236067
+941,WGN,Wugang Airport,China,Shaoyang,26.802,110.642
+942,WGP,Mau Hau,Indonesia,Waingapu,-9.669213,120.302005
+943,WHA,Xuanzhou Airport,China,Wuhu,31.097724,118.65323
+944,WJU,Wonju Airport,Republic of Korea,Wonju,37.441926,127.965838
+945,WKJ,Wakkanai,Japan,Wakkanai,45.399428,141.797398
+946,WMT,Maotai Airport,China,Zunyi,27.96222,106.435
+947,WMX,Wamena,Indonesia,Wamena,-4.099906,138.953592
+948,WNH,Wenshan Airport,China,Wenshan,23.566683,104.330926
+949,WNP,Naga Airport,Philippines,Naga,13.587222,123.27
+950,WNZ,Wenzhou Yongqiang Airport,China,Wenzhou,27.91566,120.847381
+951,WSK,Chongqing Wushan Airport,China,Wushan,31.068889,109.709167
+952,WUA,Wuhai,China,Wu Hai,39.791432,106.801862
+953,WUH,Wuhan Tianhe International Airport,China,Wuhan,30.776789,114.217577
+954,WUS,Nanping Wuyishan Airport Airport,China,Wuyishan,27.701284,118.000604
+955,WUT,Wutaishan Airport,China,Xinzhou,38.59809,112.98215
+956,WUX,Wuxi Airport,China,Wuxi,31.492889,120.424374
+957,WUZ,Xijiang Airport,China,Wuzhou,23.403056,111.099167
+958,WXN,Wanxian Airport,China,Wanxian,30.8017,108.433
+959,XAI,Minggang Airport,China,Xinyang,32.540556,114.078889
+960,XBJ,Birjand,Iran,Birjand,32.899053,59.25499
+961,XCH,Julön,Christmas Island,Christmas Island,-10.5,105.666667
+962,XFN,Xiangfan Airport,China,Xiangyang,32.150067,112.290691
+963,XIC,Qingshan,China,Xichang,27.981922,102.187645
+964,XIL,Xilinhot Airport,China,Xilinhot,43.918761,115.95924
+965,XIY,Xi'an Xianyang International Airport,China,Xian,34.438416,108.760946
+966,XKH,Xieng Khouang,Lao People's Democratic Republic,Xieng Khouang,19.444328,103.151796
+967,XMN,Xiamen Gaoqi International Airport,China,Xiamen,24.543064,118.134178
+968,XNB,Dubai Airport,United Arab Emirates,Dubai,25.25,55.33333333
+969,XNN,Xining Caojiabu Airport,China,Xining,36.527506,102.043002
+970,XNT,Xingtai Airport,China,Xingtai,37.1,114.5
+971,XSP,Seletar,Singapore,Singapore,1.41769,103.871122
+972,XUZ,Xuzhou Guanyin Airport,China,Xuzhou,34.055033,117.554758
+973,XZM,Macau Ferry Pier,Macao,Macau,22.197075,113.558911
+974,YBP,Yibin,China,Yibin,28.801665,104.551835
+975,YCU,Zhangxiao,China,Yuncheng,35.114987,111.037051
+976,YEI,Yenisehir Airport,Turkiye,Bursa,40.255767,29.544743
+977,YES,Yasuj Airport,Iran,Yasouj,30.700507,51.545102
+978,YGJ,Miho,Japan,Yonago,35.500651,133.244477
+979,YIA,New Yogyakarta International Airport,Indonesia,Yogyakarta,-7.905099,110.056623
+980,YIC,Yichun Mingyueshan Airport,China,Yichun,27.803333,114.308056
+981,YIE,Arxan Yiershi Airport,China,Arxan,47.310556,119.911944
+982,YIH,Yichang Airport,China,Yichang,30.549934,111.478938
+983,YIN,Yining Airport,China,Yining,43.951998,81.331444
+984,YIW,Yiwu Airport,China,Yiwu,29.344562,120.028808
+985,YKH,Yingkou Airport,China,Yingkou,40.540006,122.355426
+986,YLX,Yulin Fumian Airport,China,Yulin,22.438056,110.120833
+987,YNB,Yenbo,Saudi Arabia,Yanbu,24.140733,38.063019
+988,YNJ,Yanji Airport,China,Yanji,42.885662,129.439369
+989,YNT,Penglai International Airport,China,Yantai,37.657222,120.987222
+990,YNY,Yangyang Airport,Republic of Korea,Yangyang,38.059459,128.663985
+991,YNZ,Yancheng Airport,China,Yancheng,33.431217,120.204406
+992,YON,Yongphulla Airport,Bhutan,Trashigang,27.256389,91.514444
+993,YSQ,ChaGanHu Airport,China,Songyuan,44.93056,124.55083
+994,YTW,Wanfang Airport,China,Yutian,36.8086,81.7831
+995,YTY,Yangzhou Taizhou Airport,China,Yangzhou,32.563057,119.720278
+996,YUS,Yushu Batang,China,Yushu,32.839468,97.037791
+997,YYA,Sanhe Airport,China,Yueyang,29.312778,113.281667
+998,YZY,Zhangye Ganzhou Airport,China,Zhangye,38.803129,100.675437
+999,ZAH,Zahedan,Iran,Zahedan,29.475755,60.900328
+1000,ZAM,Zamboanga International,Philippines,Zamboanga,6.919294,122.062259
+1001,ZAT,Zhaotong Airport,China,Zhaotong,27.316667,103.8
+1002,ZBR,Chah Bahar,Iran,Chah Bahar,25.4433,60.382099
+1003,ZBY,Sayaboury,Lao People's Democratic Republic,Sayaboury,19.25,101.7
+1004,ZER,Ziro Airport,India,Ziro,27.588301,93.828102
+1006,ZHA,Zhanjiang Airport,China,Zhanjiang,21.214727,110.362715
+1007,ZHY,Zhongwei Xiangshan Airport,China,Zhongwei,37.573125,105.154454
+1008,ZQZ,Zhangjiakou Ningyuan Airport,China,Zhangjiakou,40.739228,114.931455
+1009,ZRI,Servi,Indonesia,Serui,-1.873953,136.23948
+1010,ZUH,Zhuhai Airport,China,Zhuhai,22.011788,113.370601
+1011,ZVK,Savannakhet,Lao People's Democratic Republic,Savannakhet,16.553611,104.7625
+1012,ZYI,Zunyi Xinzhou Airport,China,Zunyi,27.589673,106.999823
+1013,ZYK,Shekou Port Airport,China,Shekou,30.7,114.35
+1014,ZYL,Sylhet,Bangladesh,Sylhet,24.9632,91.866798
